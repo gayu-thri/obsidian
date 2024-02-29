@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "80f8c09a4d14f87b",
+            "id": "8cc080735ae3be8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b2bb445cf66d0e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Retrieval Augmented Generation (RAG).md",
+                "file": "LilacML.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retrieval Augmented Generation (RAG).md",
+                "file": "LilacML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retrieval Augmented Generation (RAG).md",
+                "file": "LilacML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retrieval Augmented Generation (RAG).md"
+                "file": "LilacML.md"
               }
             }
           }
@@ -171,12 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b2bb445cf66d0e5",
+  "active": "8cc080735ae3be8a",
   "lastOpenFiles": [
     "My Home.md",
-    "LLM Home.md",
-    "General Bookmarks.md",
+    "LilacML.md",
     "Retrieval Augmented Generation (RAG).md",
+    "LLM Home.md",
+    "Date specific notes.md",
+    "2024-02-28.md",
+    "Retrieval Augmental Generation (RAG).md",
+    "Obsidian-1.5.8.appimage",
+    "General Bookmarks.md",
     "Importer.md"
   ]
 }
