@@ -33,19 +33,25 @@
 	```bash
 	docker run -it --platform=linux/amd64 -p 5432:80 --volume /media/data/gayu/workspace/llm/lilac/:/data -e LILAC_PROJECT_DIR="/data" lilacai/lilac
 	```
-
+- #### Computing embedding
+	- Uses only CPU (or) a single GPU
+	- Example: **Dialogsum**
+		- Without GPU: **11 mins 25 secs**
+		- With GPU: **1 min 18 secs**
+	- Approximately, 90% drop in time when using single GPU instead of CPU
+	- ![[Pasted image 20240301125750.png]]
+- Configuration/usage of multiple GPUs does not appear to be there in Lilac's codebase. ​  
+- However, because they are making using of `SentenceTransformers`, 
+	- We can try to change the code to make it support.
+	- Some references below,
+		- https://github.com/UKPLab/sentence-transformers/blob/master/examples/applications/computing-embeddings/computing_embeddings_multi_gpu.py  
+		- https://www.kaggle.com/code/aisuko/computing-embeddings-with-multi-gpus
 - #### Hosting using docker
-	- Computing embedding
-		- Example: **Dialogsum**
-			- Without GPU: **11 mins 25 secs**
-			- With GPU: **1 min 18 secs**
-		- Approximately, 90% drop in time when using single GPU instead of CPU
-		- ![[Pasted image 20240301125750.png]]
 	- Loading from a file path works fine
 		- Example: parquet, zst, etc
 			- ![[Pasted image 20240301082824.png]]
 	
-	- ### LOADING FROM HF ISSUE
+	- ### LOADING FROM HF ISSUE IN DOCKER
 		- When hosting using docker, on loading a dataset from HuggingFace, an error occurs
 			```bash
 			Fatal Python error: PyGILState_Release: 
