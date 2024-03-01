@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8cc080735ae3be8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LilacML.md",
+                "file": "LLM/Retrieval Augmented Generation (RAG).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LilacML.md",
+                "file": "LLM/Retrieval Augmented Generation (RAG).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LilacML.md",
+                "file": "LLM/Retrieval Augmented Generation (RAG).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LilacML.md"
+                "file": "LLM/Retrieval Augmented Generation (RAG).md"
               }
             }
           }
@@ -159,15 +146,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8cc080735ae3be8a",
+  "active": "22fcec6b589775ca",
   "lastOpenFiles": [
+    "LLM/LLM Home.md",
+    "LLM/Retrieval Augmented Generation (RAG).md",
     "My Home.md",
-    "LilacML.md",
     "Retrieval Augmented Generation (RAG).md",
+    "Bookmarks/General Bookmarks.md",
+    "LLM/Open-source Data Tools/LilacML.md",
+    "Date specific",
+    "Bookmarks",
+    "Pasted image 20240301082824.png",
+    "LLM/Open-source Data Tools/images/Pasted image 20240301082824.png",
+    "LLM/Open-source Data Tools/images/Pasted image 20240301084051.png",
+    "LLM/Open-source Data Tools/images",
+    "LilacML.md",
+    "LLM/Open-source Data Tools",
+    "LLM",
+    "Home",
+    "Pasted image 20240301084051.png",
     "LLM Home.md",
+    "Retrieval Augmental Generation (RAG).md",
     "Date specific notes.md",
     "2024-02-28.md",
-    "Retrieval Augmental Generation (RAG).md",
     "Obsidian-1.5.8.appimage",
     "General Bookmarks.md",
     "Importer.md"
