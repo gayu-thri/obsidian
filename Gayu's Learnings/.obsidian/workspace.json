@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Home.md",
+                "file": "LLM/Open-source Data Tools/LilacML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d839beabababed0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM/Open-source Data Tools/LilacML.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 605.5026054382324
   },
   "right": {
     "id": "3cddeeb6fbef4330",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Home.md",
+                "file": "LLM/Open-source Data Tools/LilacML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Home.md",
+                "file": "LLM/Open-source Data Tools/LilacML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Home.md"
+                "file": "LLM/Open-source Data Tools/LilacML.md"
               }
             }
           }
@@ -146,10 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22fcec6b589775ca",
+  "active": "8d839beabababed0",
   "lastOpenFiles": [
-    "My Home.md",
+    "LLM/Open-source Data Tools/images/Pasted image 20240301125750.png",
+    "LLM/Open-source Data Tools/images/Pasted image 20240301125736.png",
+    "LLM/Open-source Data Tools/images/Pasted image 20240301084051.png",
+    "LLM/Open-source Data Tools/images/Pasted image 20240301082824.png",
     "LLM/Open-source Data Tools/LilacML.md",
+    "Untitled.md",
+    "LLM/Open-source Data Tools/LilacML Home",
+    "My Home.md",
     "LLM/LLM Home.md",
     "LLM/Retrieval Augmented Generation (RAG).md",
     "Retrieval Augmented Generation (RAG).md",
@@ -157,8 +176,6 @@
     "Date specific",
     "Bookmarks",
     "Pasted image 20240301082824.png",
-    "LLM/Open-source Data Tools/images/Pasted image 20240301082824.png",
-    "LLM/Open-source Data Tools/images/Pasted image 20240301084051.png",
     "LLM/Open-source Data Tools/images",
     "LilacML.md",
     "LLM/Open-source Data Tools",

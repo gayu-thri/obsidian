@@ -35,10 +35,17 @@
 	```
 
 - #### Hosting using docker
+	- Computing embedding
+		- Example: **Dialogsum**
+			- Without GPU: **11 mins 25 secs**
+			- With GPU: **1 min 18 secs**
+		- Approximately, 90% drop in time when using single GPU instead of CPU
+		- ![[Pasted image 20240301125750.png]]
 	- Loading from a file path works fine
 		- Example: parquet, zst, etc
 			- ![[Pasted image 20240301082824.png]]
-	- ### ISSUE
+	
+	- ### LOADING FROM HF ISSUE
 		- When hosting using docker, on loading a dataset from HuggingFace, an error occurs
 			```bash
 			Fatal Python error: PyGILState_Release: 
