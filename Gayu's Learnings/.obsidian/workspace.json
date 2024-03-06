@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "22fcec6b589775ca",
+            "id": "8d839beabababed0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/Open-source Data Tools/LilacML.md",
+                "file": "LLM/LLM Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8d839beabababed0",
+            "id": "998c948cc00b4bd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Date specific notes.md",
+                "file": "LLM/Summarization.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Date specific notes.md",
+                "file": "LLM/Summarization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Date specific notes.md",
+                "file": "LLM/Summarization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Date specific notes.md"
+                "file": "LLM/Summarization.md"
               }
             }
           }
@@ -159,12 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d839beabababed0",
+  "active": "998c948cc00b4bd5",
   "lastOpenFiles": [
+    "LLM/LLM Home.md",
+    "LLM/Summarization.md",
     "Date specific/2024-03-01.md",
     "Date specific notes.md",
     "LLM/Open-source Data Tools/LilacML.md",
-    "LLM/LLM Home.md",
     "Untitled.md",
     "LLM/Open-source Data Tools/images/Pasted image 20240301125750.png",
     "LLM/Open-source Data Tools/images/Pasted image 20240301125736.png",
