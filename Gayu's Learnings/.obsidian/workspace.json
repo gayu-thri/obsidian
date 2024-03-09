@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/LLM Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "998c948cc00b4bd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLM/Summarization.md",
+                "file": "Deep Learning Models/Deep Learning Models Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM/Summarization.md",
+                "file": "Deep Learning Models/Deep Learning Models Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM/Summarization.md",
+                "file": "Deep Learning Models/Deep Learning Models Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/Summarization.md"
+                "file": "Deep Learning Models/Deep Learning Models Home.md"
               }
             }
           }
@@ -159,23 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "998c948cc00b4bd5",
+  "active": "8d839beabababed0",
   "lastOpenFiles": [
-    "LLM/LLM Home.md",
-    "LLM/Summarization.md",
-    "Date specific/2024-03-01.md",
-    "Date specific notes.md",
+    "My Home.md",
+    "Bookmarks/General Bookmarks.md",
     "LLM/Open-source Data Tools/LilacML.md",
+    "Deep Learning Models/Causal Language Modeling.md",
+    "Date specific notes.md",
+    "Date specific/2024-03-01.md",
+    "Deep Learning Models/Deep Learning Models Home.md",
+    "LLM/LLM Home.md",
+    "Deep Learning Models",
+    "LLM/Summarization.md",
     "Untitled.md",
     "LLM/Open-source Data Tools/images/Pasted image 20240301125750.png",
     "LLM/Open-source Data Tools/images/Pasted image 20240301125736.png",
     "LLM/Open-source Data Tools/images/Pasted image 20240301084051.png",
     "LLM/Open-source Data Tools/images/Pasted image 20240301082824.png",
     "LLM/Open-source Data Tools/LilacML Home",
-    "My Home.md",
     "LLM/Retrieval Augmented Generation (RAG).md",
     "Retrieval Augmented Generation (RAG).md",
-    "Bookmarks/General Bookmarks.md",
     "Date specific",
     "Bookmarks",
     "Pasted image 20240301082824.png",

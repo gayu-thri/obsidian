@@ -1,7 +1,7 @@
-#### Concepts
+### Concepts
 - [[Retrieval Augmented Generation (RAG)]]
 - [[Summarization]]
-#### Open-source Data Tools
+### Open-source Data Tools
 - [[LilacML]] 
-#### Papers
+### Papers
 - Todo: Add
