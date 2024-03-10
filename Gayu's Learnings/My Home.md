@@ -1,5 +1,5 @@
 #### Extras
 - [[General Bookmarks]]
 #### Deep Learning
-- [[LLM Home]]
+- [[LLM Concepts Home]]
 - [[Deep Learning Models Home]]

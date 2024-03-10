@@ -1,2 +1,0 @@
-### Transformers
-- [[Causal Language Modeling]]

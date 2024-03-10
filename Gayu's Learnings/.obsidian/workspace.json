@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e9a1faf9a543745a",
+        "id": "681487f869f9a14c",
         "type": "tabs",
         "children": [
           {
-            "id": "8d839beabababed0",
+            "id": "4ce1e69379ffcd01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning Models/Deep Learning Models Home.md",
+                "file": "Deep Learning/Models/Large Language Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep Learning Models/Deep Learning Models Home.md",
+                "file": "Deep Learning/Models/Large Language Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep Learning Models/Deep Learning Models Home.md",
+                "file": "Deep Learning/Models/Large Language Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep Learning Models/Deep Learning Models Home.md"
+                "file": "Deep Learning/Models/Large Language Models.md"
               }
             }
           }
@@ -146,39 +146,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d839beabababed0",
+  "active": "4ce1e69379ffcd01",
   "lastOpenFiles": [
-    "My Home.md",
+    "Deep Learning/Concepts/images",
+    "Deep Learning/Models/images",
+    "Deep Learning/Models/images/Pasted image 20240310100332.png",
     "Bookmarks/General Bookmarks.md",
-    "LLM/Open-source Data Tools/LilacML.md",
-    "Deep Learning Models/Causal Language Modeling.md",
+    "Deep Learning/Deep Learning Home.md",
+    "My Home.md",
+    "Deep Learning/Concepts/LLM/LLM Concepts Home.md",
+    "Deep Learning/Models/Deep Learning Models Home.md",
     "Date specific notes.md",
+    "Deep Learning/Models/Large Language Models.md",
+    "Deep Learning/Concepts",
+    "Deep Learning/Models/Causal Language Modeling.md",
+    "Deep Learning/Models",
+    "Deep Learning/Concepts/LLM/Open-source Data Tools/LilacML.md",
     "Date specific/2024-03-01.md",
-    "Deep Learning Models/Deep Learning Models Home.md",
-    "LLM/LLM Home.md",
-    "Deep Learning Models",
-    "LLM/Summarization.md",
+    "Deep Learning",
+    "Deep Learning/Concepts/LLM/Summarization.md",
     "Untitled.md",
-    "LLM/Open-source Data Tools/images/Pasted image 20240301125750.png",
+    "Deep Learning/Concepts/LLM/Open-source Data Tools/images/Pasted image 20240301125750.png",
     "LLM/Open-source Data Tools/images/Pasted image 20240301125736.png",
-    "LLM/Open-source Data Tools/images/Pasted image 20240301084051.png",
-    "LLM/Open-source Data Tools/images/Pasted image 20240301082824.png",
+    "Deep Learning/Concepts/LLM/Open-source Data Tools/images/Pasted image 20240301084051.png",
+    "Deep Learning/Concepts/LLM/Open-source Data Tools/images/Pasted image 20240301082824.png",
     "LLM/Open-source Data Tools/LilacML Home",
-    "LLM/Retrieval Augmented Generation (RAG).md",
+    "Deep Learning/Concepts/LLM/Retrieval Augmented Generation (RAG).md",
     "Retrieval Augmented Generation (RAG).md",
     "Date specific",
     "Bookmarks",
     "Pasted image 20240301082824.png",
-    "LLM/Open-source Data Tools/images",
+    "Deep Learning/Concepts/LLM/Open-source Data Tools/images",
     "LilacML.md",
-    "LLM/Open-source Data Tools",
-    "LLM",
-    "Home",
+    "Deep Learning/Concepts/LLM/Open-source Data Tools",
+    "Deep Learning/Concepts/LLM",
     "Pasted image 20240301084051.png",
     "LLM Home.md",
     "Retrieval Augmental Generation (RAG).md",
     "2024-02-28.md",
-    "Obsidian-1.5.8.appimage",
     "General Bookmarks.md",
     "Importer.md"
   ]
