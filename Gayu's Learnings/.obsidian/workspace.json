@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/Models/Large Language Models.md",
+                "file": "Deep Learning/Concepts/LLM/Retrieval Augmented Generation (RAG).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep Learning/Models/Large Language Models.md",
+                "file": "Deep Learning/Concepts/LLM/Retrieval Augmented Generation (RAG).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep Learning/Models/Large Language Models.md",
+                "file": "Deep Learning/Concepts/LLM/Retrieval Augmented Generation (RAG).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep Learning/Models/Large Language Models.md"
+                "file": "Deep Learning/Concepts/LLM/Retrieval Augmented Generation (RAG).md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "4ce1e69379ffcd01",
   "lastOpenFiles": [
+    "Deep Learning/Models/Large Language Models.md",
     "Deep Learning/Concepts/images",
     "Deep Learning/Models/images",
     "Deep Learning/Models/images/Pasted image 20240310100332.png",
@@ -157,7 +158,6 @@
     "Deep Learning/Concepts/LLM/LLM Concepts Home.md",
     "Deep Learning/Models/Deep Learning Models Home.md",
     "Date specific notes.md",
-    "Deep Learning/Models/Large Language Models.md",
     "Deep Learning/Concepts",
     "Deep Learning/Models/Causal Language Modeling.md",
     "Deep Learning/Models",
@@ -179,7 +179,6 @@
     "Deep Learning/Concepts/LLM/Open-source Data Tools/images",
     "LilacML.md",
     "Deep Learning/Concepts/LLM/Open-source Data Tools",
-    "Deep Learning/Concepts/LLM",
     "Pasted image 20240301084051.png",
     "LLM Home.md",
     "Retrieval Augmental Generation (RAG).md",
