@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/Deep Learning Home.md",
+                "file": "Bookmarks/General Bookmarks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f344ae3a6ac5f6bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todo/Learnings Todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep Learning/Deep Learning Home.md",
+                "file": "Todo/Learnings Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep Learning/Deep Learning Home.md",
+                "file": "Todo/Learnings Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep Learning/Deep Learning Home.md"
+                "file": "Todo/Learnings Todo.md"
               }
             }
           }
@@ -171,11 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "face3cc56b7e7de0",
+  "active": "f344ae3a6ac5f6bd",
   "lastOpenFiles": [
-    "Deep Learning/Models/Large Language Models.md",
-    "Deep Learning/Deep Learning Home.md",
+    "Todo",
     "Bookmarks/General Bookmarks.md",
+    "Todo/Learnings Todo.md",
+    "Deep Learning/Deep Learning Home.md",
+    "Deep Learning/Models/Large Language Models.md",
     "Deep Learning/Concepts/LLM/LLM Home.md",
     "Deep Learning/Concepts/ASR/ASR Home.md",
     "Deep Learning/Concepts/ASR",
@@ -192,7 +206,6 @@
     "Date specific/2024-03-01.md",
     "Deep Learning",
     "Deep Learning/Concepts/LLM/Summarization.md",
-    "Untitled.md",
     "Deep Learning/Concepts/LLM/Open-source Data Tools/images/Pasted image 20240301125750.png",
     "LLM/Open-source Data Tools/images/Pasted image 20240301125736.png",
     "Deep Learning/Concepts/LLM/Open-source Data Tools/images/Pasted image 20240301084051.png",

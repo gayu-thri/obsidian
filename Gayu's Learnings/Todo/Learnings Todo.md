@@ -1,0 +1,5 @@
+- HuggingFace NLP Tutorial course
+- HuggingFace tokenizer training
+- Fairseq complete flow in their official documentation
+- Text generation using BERT in HuggingFace
+- 
