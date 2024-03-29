@@ -1,4 +1,6 @@
 - HuggingFace NLP Tutorial course
+- Transformer complete basics
+	- Positional Embeddings
 - HuggingFace tokenizer training
 - Fairseq complete flow in their official documentation
 - Text generation using BERT in HuggingFace
