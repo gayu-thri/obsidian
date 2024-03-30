@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "681487f869f9a14c",
+        "id": "28ea290a4356cf08",
         "type": "tabs",
         "children": [
           {
-            "id": "4ce1e69379ffcd01",
+            "id": "adb04e8a7ee1e7ce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deep Learning/Concepts/LLM/Retrieval Augmented Generation (RAG).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "face3cc56b7e7de0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bookmarks/General Bookmarks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f344ae3a6ac5f6bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Todo/Papers To Read.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5383b776fd127ea3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deep Learning/Concepts/LLM/LLM Home.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/Papers To Read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/Papers To Read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Todo/Papers To Read.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -183,18 +138,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f344ae3a6ac5f6bd",
+  "active": "adb04e8a7ee1e7ce",
   "lastOpenFiles": [
+    "Deep Learning/Concepts/LLM/LLM Home.md",
+    "Deep Learning/Concepts/LLM/Retrieval Augmented Generation (RAG).md",
+    "Bookmarks/General Bookmarks.md",
     "Deep Learning/Models/Transformers.md",
+    "Bookmarks/ASR Bookmarks.md",
+    "Deep Learning/Concepts/ASR/ASR Home.md",
+    "Todo/Papers To Read.md",
     "Deep Learning/Models/markdown_template.md",
     "Todo/Learnings Todo.md",
-    "Todo/Papers To Read.md",
     "Todo",
-    "Bookmarks/General Bookmarks.md",
     "Deep Learning/Deep Learning Home.md",
     "Deep Learning/Models/Large Language Models.md",
-    "Deep Learning/Concepts/LLM/LLM Home.md",
-    "Deep Learning/Concepts/ASR/ASR Home.md",
     "Deep Learning/Concepts/ASR",
     "Deep Learning/Concepts/images",
     "Deep Learning/Models/images",
@@ -214,7 +171,6 @@
     "Deep Learning/Concepts/LLM/Open-source Data Tools/images/Pasted image 20240301084051.png",
     "Deep Learning/Concepts/LLM/Open-source Data Tools/images/Pasted image 20240301082824.png",
     "LLM/Open-source Data Tools/LilacML Home",
-    "Deep Learning/Concepts/LLM/Retrieval Augmented Generation (RAG).md",
     "Retrieval Augmented Generation (RAG).md",
     "Date specific",
     "Bookmarks",
