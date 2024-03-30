@@ -11,8 +11,12 @@
             "id": "adb04e8a7ee1e7ce",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Todo/Learnings Todo.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Todo/Learnings Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Todo/Learnings Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Todo/Learnings Todo.md"
+              }
             }
           }
         ]
@@ -140,15 +148,15 @@
   },
   "active": "adb04e8a7ee1e7ce",
   "lastOpenFiles": [
+    "Todo/Papers To Read.md",
+    "Todo/Learnings Todo.md",
     "Deep Learning/Concepts/LLM/LLM Home.md",
     "Deep Learning/Concepts/LLM/Retrieval Augmented Generation (RAG).md",
     "Bookmarks/General Bookmarks.md",
     "Deep Learning/Models/Transformers.md",
     "Bookmarks/ASR Bookmarks.md",
     "Deep Learning/Concepts/ASR/ASR Home.md",
-    "Todo/Papers To Read.md",
     "Deep Learning/Models/markdown_template.md",
-    "Todo/Learnings Todo.md",
     "Todo",
     "Deep Learning/Deep Learning Home.md",
     "Deep Learning/Models/Large Language Models.md",
