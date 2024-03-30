@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/Learnings Todo.md",
+                "file": "Todo/Papers To Read.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/Learnings Todo.md",
+                "file": "Todo/Papers To Read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/Learnings Todo.md",
+                "file": "Todo/Papers To Read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/Learnings Todo.md"
+                "file": "Todo/Papers To Read.md"
               }
             }
           }
@@ -185,9 +185,12 @@
   },
   "active": "f344ae3a6ac5f6bd",
   "lastOpenFiles": [
+    "Deep Learning/Models/Transformers.md",
+    "Deep Learning/Models/markdown_template.md",
+    "Todo/Learnings Todo.md",
+    "Todo/Papers To Read.md",
     "Todo",
     "Bookmarks/General Bookmarks.md",
-    "Todo/Learnings Todo.md",
     "Deep Learning/Deep Learning Home.md",
     "Deep Learning/Models/Large Language Models.md",
     "Deep Learning/Concepts/LLM/LLM Home.md",
@@ -216,7 +219,6 @@
     "Date specific",
     "Bookmarks",
     "Pasted image 20240301082824.png",
-    "Deep Learning/Concepts/LLM/Open-source Data Tools/images",
     "LilacML.md",
     "Pasted image 20240301084051.png",
     "LLM Home.md",
