@@ -1,6 +1,7 @@
 ### Models
 - Transformers
-	- [[Large Language Models]]
+	- [[LLM]]
+	- [[Causal LM]]
+	- [[Masked LM]]
 ### Concepts
 - [[LLM Home]]
-- [[ASR Home]]

@@ -1,8 +1,11 @@
+Introduction Reference Link
+	- [Simple Introduction to Large Language Models (LLMs)](https://www.youtube.com/watch?v=osKyvYJ3PRM)
+Two types of Language Models (LMs)
+	1. Causal LM
+	2. Masked LM
 ### History
 - ![[Pasted image 20240310100332.png]]
-### Language Modelling Basics
-- Introduction
-	- [Simple Introduction to Large Language Models (LLMs)](https://www.youtube.com/watch?v=osKyvYJ3PRM)
+### LM Basics
 - Data flow
 	1. Tokenization
 		- Compute embeddings
@@ -34,10 +37,3 @@
 - Advancements & Research
 	- Knowledge Distillation (Teacher and Student LLM)
 	- RAG (Look up information outside training data using DB)
-
-### Language Modelling - In Brief
-- Two types of LMs
-	1. Causal
-	2. Masked
-### Causal Language Modelling
-- 
