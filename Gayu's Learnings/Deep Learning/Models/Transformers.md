@@ -1,3 +1,5 @@
+For deeper understanding: http://jalammar.github.io/illustrated-transformer/
+
 Transformers, a groundbreaking concept in Natural Language Processing (NLP), have revolutionized our approach to language comprehension. This innovative idea was first introduced in the seminal paper "Attention is All You Need" by Vaswani et al. Unlike the sequential processing of Recurrent Neural Networks (RNNs), Transformers employ an 'attention' mechanism that assigns significance to words in a sentence, thereby capturing context more effectively. This architecture forms the backbone of state-of-the-art models like BERT, GPT, and T5, which have set new benchmarks in tasks such as text generation, text classification, sentiment analysis, and machine translation.
 
 One popular example, ChatGPT based on GPT-3.5, has continued to captivate the internet with AI-generated content, evolving from a unique chatbot into a technological marvel that is propelling the next wave of innovation.

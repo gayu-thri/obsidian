@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/Concepts/LLM/Summarization.md",
+                "file": "Todo/Papers To Read.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep Learning/Concepts/LLM/Summarization.md",
+                "file": "Todo/Papers To Read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep Learning/Concepts/LLM/Summarization.md",
+                "file": "Todo/Papers To Read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep Learning/Concepts/LLM/Summarization.md"
+                "file": "Todo/Papers To Read.md"
               }
             }
           }
@@ -148,13 +148,16 @@
   },
   "active": "55cdd88d815b3832",
   "lastOpenFiles": [
-    "Deep Learning/Models/LLM.md",
-    "Deep Learning/Concepts/LLM/LLM Home.md",
-    "Deep Learning/Deep Learning Home.md",
-    "Deep Learning/Models/Causal LM.md",
-    "Deep Learning/Models/Masked LM.md",
-    "Deep Learning/Models/Transformers.md",
     "Todo/Learnings Todo.md",
+    "Deep Learning/Models/Causal LM.md",
+    "Deep Learning/Deep Learning Home.md",
+    "My Home.md",
+    "Deep Learning Models Home.md",
+    "Deep Learning/Models/Transformers.md",
+    "Deep Learning/Models/LLM.md",
+    "Deep Learning/Models/Masked LM.md",
+    "Deep Learning/Concepts/LLM/Summarization.md",
+    "Deep Learning/Concepts/LLM/LLM Home.md",
     "Todo/Papers To Read.md",
     "Deep Learning/Concepts/LLM/Retrieval Augmented Generation (RAG).md",
     "Bookmarks/General Bookmarks.md",
@@ -166,7 +169,6 @@
     "Deep Learning/Concepts/images",
     "Deep Learning/Models/images",
     "Deep Learning/Models/images/Pasted image 20240310100332.png",
-    "My Home.md",
     "Deep Learning/Models/Deep Learning Models Home.md",
     "Date specific notes.md",
     "Deep Learning/Concepts",
@@ -175,7 +177,6 @@
     "Deep Learning/Concepts/LLM/Open-source Data Tools/LilacML.md",
     "Date specific/2024-03-01.md",
     "Deep Learning",
-    "Deep Learning/Concepts/LLM/Summarization.md",
     "Deep Learning/Concepts/LLM/Open-source Data Tools/images/Pasted image 20240301125750.png",
     "LLM/Open-source Data Tools/images/Pasted image 20240301125736.png",
     "Deep Learning/Concepts/LLM/Open-source Data Tools/images/Pasted image 20240301084051.png",
@@ -189,7 +190,6 @@
     "Pasted image 20240301084051.png",
     "LLM Home.md",
     "Retrieval Augmental Generation (RAG).md",
-    "2024-02-28.md",
-    "General Bookmarks.md"
+    "2024-02-28.md"
   ]
 }
