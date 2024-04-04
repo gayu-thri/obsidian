@@ -11,15 +11,24 @@
             "id": "55cdd88d815b3832",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "7af7e4598b29f420",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Bookmarks/ASR Bookmarks.md",
+                "file": "My Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5026054382324
+    "width": 200
   },
   "right": {
     "id": "3cddeeb6fbef4330",
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bookmarks/ASR Bookmarks.md",
+                "file": "My Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bookmarks/ASR Bookmarks.md",
+                "file": "My Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bookmarks/ASR Bookmarks.md"
+                "file": "My Home.md"
               }
             }
           }
@@ -146,17 +155,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55cdd88d815b3832",
+  "active": "7af7e4598b29f420",
   "lastOpenFiles": [
-    "Bookmarks/General Bookmarks.md",
+    "Personal/Gym/Gym Workouts.md",
+    "Personal/Gym",
+    "My Home.md",
+    "Personal",
     "Bookmarks/ASR Bookmarks.md",
+    "Deep Learning/Models/images/Pasted image 20240310100332.png",
+    "Deep Learning/Models/images",
+    "Deep Learning Models Home.md",
+    "Bookmarks/General Bookmarks.md",
     "Todo/Learnings Todo.md",
     "Todo/Papers To Read.md",
     "().md",
-    "Deep Learning Models Home.md",
     "Deep Learning/Models/Causal LM.md",
     "Deep Learning/Deep Learning Home.md",
-    "My Home.md",
     "Deep Learning/Models/Transformers.md",
     "Deep Learning/Models/LLM.md",
     "Deep Learning/Models/Masked LM.md",
@@ -182,14 +196,9 @@
     "LLM/Open-source Data Tools/images/Pasted image 20240301125736.png",
     "Deep Learning/Concepts/LLM/Open-source Data Tools/images/Pasted image 20240301084051.png",
     "Deep Learning/Concepts/LLM/Open-source Data Tools/images/Pasted image 20240301082824.png",
-    "LLM/Open-source Data Tools/LilacML Home",
     "Retrieval Augmented Generation (RAG).md",
-    "Date specific",
-    "Bookmarks",
     "Pasted image 20240301082824.png",
     "LilacML.md",
-    "Pasted image 20240301084051.png",
-    "LLM Home.md",
-    "Retrieval Augmental Generation (RAG).md"
+    "Pasted image 20240301084051.png"
   ]
 }
