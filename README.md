@@ -1,2 +1,2 @@
 # obsidian
-My notes 
+My learning notes 
