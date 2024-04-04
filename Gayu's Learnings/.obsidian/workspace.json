@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/Learnings Todo.md",
+                "file": "Bookmarks/ASR Bookmarks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/Learnings Todo.md",
+                "file": "Bookmarks/ASR Bookmarks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/Learnings Todo.md",
+                "file": "Bookmarks/ASR Bookmarks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/Learnings Todo.md"
+                "file": "Bookmarks/ASR Bookmarks.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "55cdd88d815b3832",
   "lastOpenFiles": [
-    "Todo/Papers To Read.md",
+    "Bookmarks/General Bookmarks.md",
+    "Bookmarks/ASR Bookmarks.md",
     "Todo/Learnings Todo.md",
+    "Todo/Papers To Read.md",
     "().md",
     "Deep Learning Models Home.md",
     "Deep Learning/Models/Causal LM.md",
@@ -161,15 +163,13 @@
     "Deep Learning/Concepts/LLM/Summarization.md",
     "Deep Learning/Concepts/LLM/LLM Home.md",
     "Deep Learning/Concepts/LLM/Retrieval Augmented Generation (RAG).md",
-    "Bookmarks/General Bookmarks.md",
-    "Bookmarks/ASR Bookmarks.md",
     "Deep Learning/Concepts/ASR/ASR Home.md",
     "Deep Learning/Models/markdown_template.md",
     "Todo",
     "Deep Learning/Concepts/ASR",
-    "Deep Learning/Concepts/images",
-    "Deep Learning/Models/images",
-    "Deep Learning/Models/images/Pasted image 20240310100332.png",
+    "Deep Learning/Concepts/_images",
+    "Deep Learning/Models/_images",
+    "Deep Learning/Models/_images/Pasted image 20240310100332.png",
     "Deep Learning/Models/Deep Learning Models Home.md",
     "Date specific notes.md",
     "Deep Learning/Concepts",
