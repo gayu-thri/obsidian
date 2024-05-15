@@ -12,7 +12,7 @@
 #### Dataset
 - [The Pile: An 800GB Dataset of Diverse Text for Language Modeling](https://arxiv.org/pdf/2101.00027.pdf)
 - [CCNet: Extracting High Quality Monolingual Datasets from Web Crawl Data](https://arxiv.org/pdf/1911.00359.pdf)
-- RedPajama
+- [RedPajama](https://www.together.ai/blog/redpajama-data-v2)
 
 #### Filtering
 - [QuRating: Selecting High-Quality Data for Training Language Models](https://arxiv.org/pdf/2402.09739.pdf)
