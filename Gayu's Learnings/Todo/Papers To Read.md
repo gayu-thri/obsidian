@@ -5,7 +5,7 @@
 	- [InternLM2 Technical Report](https://arxiv.org/pdf/2403.17297.pdf)
 - Models
 	- [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/pdf/2302.13971.pdf)
-	- GPT
+	- [Generative Pre-trained Transformer (_GPT_)](https://arxiv.org/abs/2305.10435)
 	- [Orca: Progressive Learning from Complex Explanation Traces of GPT-4](https://arxiv.org/pdf/2306.02707.pdf)
 	- [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/pdf/2204.02311.pdf)
 

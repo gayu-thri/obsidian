@@ -10,3 +10,4 @@
 		1. Attention mechanism (K, Q, V) with proper example
 		2. Positional Embeddings
 - Fairseq complete flow in their official documentation
+	- **Samples for understanding** - `examples` folder inside

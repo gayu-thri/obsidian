@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Home.md",
+                "file": "Todo/Papers To Read.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Home.md",
+                "file": "Todo/Papers To Read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Home.md",
+                "file": "Todo/Papers To Read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Home.md"
+                "file": "Todo/Papers To Read.md"
               }
             }
           }
@@ -157,17 +157,17 @@
   },
   "active": "7af7e4598b29f420",
   "lastOpenFiles": [
+    "Todo/Learnings Todo.md",
+    "Bookmarks/General Bookmarks.md",
+    "My Home.md",
+    "Todo/Papers To Read.md",
     "Personal/Gym/Gym Workouts.md",
     "Personal/Gym",
-    "My Home.md",
     "Personal",
     "Bookmarks/ASR Bookmarks.md",
     "Deep Learning/Models/images/Pasted image 20240310100332.png",
     "Deep Learning/Models/images",
     "Deep Learning Models Home.md",
-    "Bookmarks/General Bookmarks.md",
-    "Todo/Learnings Todo.md",
-    "Todo/Papers To Read.md",
     "().md",
     "Deep Learning/Models/Causal LM.md",
     "Deep Learning/Deep Learning Home.md",
