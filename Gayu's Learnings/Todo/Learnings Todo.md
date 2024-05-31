@@ -10,4 +10,5 @@
 		1. Attention mechanism (K, Q, V) with proper example
 		2. Positional Embeddings
 - Fairseq complete flow in their official documentation
-	- **Samples for understanding** - `examples` folder inside
+	- https://repository.zoho.com/zohocorp/tp/fairseq#/source/default/fairseq/examples
+		- Specific example: https://github.com/facebookresearch/fairseq/blob/main/examples/roberta/README.pretraining.md

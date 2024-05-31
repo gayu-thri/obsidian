@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a1a573a5a18e78ed",
+        "id": "f7b2021a56f2e538",
         "type": "tabs",
         "children": [
           {
-            "id": "55cdd88d815b3832",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "7af7e4598b29f420",
+            "id": "7b059167f325eddc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/Papers To Read.md",
+                "file": "Deep Learning/Toolkits/Fairseq.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 282.5026054382324
   },
   "right": {
     "id": "3cddeeb6fbef4330",
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/Papers To Read.md",
+                "file": "Deep Learning/Toolkits/Fairseq.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/Papers To Read.md",
+                "file": "Deep Learning/Toolkits/Fairseq.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/Papers To Read.md"
+                "file": "Deep Learning/Toolkits/Fairseq.md"
               }
             }
           }
@@ -155,12 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7af7e4598b29f420",
+  "active": "7b059167f325eddc",
   "lastOpenFiles": [
+    "Web Server & File Server/NFS.md",
+    "Deep Learning/Toolkits/Fairseq.md",
+    "Deep Learning/Toolkits",
     "Todo/Learnings Todo.md",
-    "Bookmarks/General Bookmarks.md",
+    "Web Server & File Server/NFS Use Case.md",
     "My Home.md",
+    "Date specific notes.md",
     "Todo/Papers To Read.md",
+    "Web Server & File Server",
+    "Bookmarks/General Bookmarks.md",
     "Personal/Gym/Gym Workouts.md",
     "Personal/Gym",
     "Personal",
@@ -185,20 +182,15 @@
     "Deep Learning/Models/_images",
     "Deep Learning/Models/_images/Pasted image 20240310100332.png",
     "Deep Learning/Models/Deep Learning Models Home.md",
-    "Date specific notes.md",
     "Deep Learning/Concepts",
     "Deep Learning/Models/Causal Language Modeling.md",
-    "Deep Learning/Models",
     "Deep Learning/Concepts/LLM/Open-source Data Tools/LilacML.md",
     "Date specific/2024-03-01.md",
-    "Deep Learning",
     "Deep Learning/Concepts/LLM/Open-source Data Tools/images/Pasted image 20240301125750.png",
     "LLM/Open-source Data Tools/images/Pasted image 20240301125736.png",
     "Deep Learning/Concepts/LLM/Open-source Data Tools/images/Pasted image 20240301084051.png",
     "Deep Learning/Concepts/LLM/Open-source Data Tools/images/Pasted image 20240301082824.png",
-    "Retrieval Augmented Generation (RAG).md",
     "Pasted image 20240301082824.png",
-    "LilacML.md",
     "Pasted image 20240301084051.png"
   ]
 }

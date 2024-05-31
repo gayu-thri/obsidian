@@ -5,13 +5,20 @@
 - We need to setup a NFS server and NFS clients for it
 
 ---
+### To verify NFS is running
+
+```bash
+plaintext-ibm
+showmount -e hostname
+```
+---
 ### Steps to configure NFS Server 
 
 ##### (i) Installation & Setup
 ```bash
-apt update 
-apt -y install nfs-kernel-server 
-systemctl status nfs-server 
+sudo apt update 
+sudo apt -y install nfs-kernel-server 
+sudo systemctl status nfs-server 
 mkdir /exports 
 mkdir /exports/backups 
 ```
@@ -21,10 +28,14 @@ vi /etc/exports
 ```
 > */exports/backups 192.168.0.127(rw,sync,no_subtree_check) *
 
+- *no_subtree_check*
+	- System doesn't have to check permissions for every internal folder which will save time
 ```bash
-exportfs -ar 
-exportfs -v 
+sudo exportfs -ar 
+sudo exportfs -v 
 ```
+- **-ar**: Will show any errors/warnings
+- **-v**: To view current active exports
 ##### (iii) Firewall Configuration
 ``` bash
 ufw allow from 192.168.0.127 to any port nfs 
@@ -35,7 +46,7 @@ ufw allow from 192.168.0.127 to any port nfs
 
 ##### (i) Installation
 ```bash
-apt -y install nfs-common 
+sudo apt -y install nfs-common 
 ```
 ##### (ii) Mount the shared directory
 ```bash
