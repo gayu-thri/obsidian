@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/Toolkits/Fairseq.md",
+                "file": "Deep Learning/Toolkits/Fairseq/Fairseq.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/Toolkits/Fairseq + Multi-Node Training.md",
+                "file": "Deep Learning/Toolkits/Slurm.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep Learning/Toolkits/Fairseq + Multi-Node Training.md",
+                "file": "Deep Learning/Toolkits/Slurm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep Learning/Toolkits/Fairseq + Multi-Node Training.md",
+                "file": "Deep Learning/Toolkits/Slurm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep Learning/Toolkits/Fairseq + Multi-Node Training.md"
+                "file": "Deep Learning/Toolkits/Slurm.md"
               }
             }
           }
@@ -161,9 +161,11 @@
   },
   "active": "e3f64e91c0c45264",
   "lastOpenFiles": [
-    "Deep Learning/Toolkits/Fairseq Example.md",
-    "Deep Learning/Toolkits/Fairseq.md",
-    "Deep Learning/Toolkits/Fairseq + Multi-Node Training.md",
+    "Deep Learning/Toolkits/Fairseq/Fairseq.md",
+    "Deep Learning/Toolkits/Slurm.md",
+    "Deep Learning/Toolkits/Fairseq/Fairseq Example.md",
+    "Deep Learning/Toolkits/Fairseq",
+    "Deep Learning/Toolkits/Fairseq/Fairseq + Multi-Node Training.md",
     "Deep Learning/_images/Pasted image 20240531134155.png",
     "Deep Learning/_images/Pasted image 20240531133821.png",
     "Deep Learning/_images/Pasted image 20240531134138.png",
@@ -199,10 +201,8 @@
     "Todo",
     "Deep Learning/Concepts/ASR",
     "Deep Learning/Concepts/_images",
-    "Deep Learning/Models/_images",
     "Deep Learning/Models/_images/Pasted image 20240310100332.png",
     "Deep Learning/Models/Deep Learning Models Home.md",
-    "Deep Learning/Models/Causal Language Modeling.md",
     "Deep Learning/Concepts/LLM/Open-source Data Tools/images/Pasted image 20240301125750.png",
     "LLM/Open-source Data Tools/images/Pasted image 20240301125736.png",
     "Deep Learning/Concepts/LLM/Open-source Data Tools/images/Pasted image 20240301084051.png",
