@@ -14,6 +14,8 @@
 | ---------------------------------------------- | ------------------ | ---------------------------------------------- |
 | train.txt & valid.txt                          | fairseq-preprocess | train.bin & valid.bin<br>train.idx & valid.idx |
 | train.bin & valid.bin<br>train.idx & valid.idx | fairseq-train      |                                                |
+|                                                |                    |                                                |
 ### fairseq-preprocess
 - Bin and idx (vocab) files are generated 
 	- ![[Pasted image 20240531134155.png]]
+- 
