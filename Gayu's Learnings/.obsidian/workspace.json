@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/Toolkits/Slurm.md",
+                "file": "General/Go To Env Creation.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep Learning/Toolkits/Slurm.md",
+                "file": "General/Go To Env Creation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep Learning/Toolkits/Slurm.md",
+                "file": "General/Go To Env Creation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep Learning/Toolkits/Slurm.md"
+                "file": "General/Go To Env Creation.md"
               }
             }
           }
@@ -161,8 +161,14 @@
   },
   "active": "e3f64e91c0c45264",
   "lastOpenFiles": [
-    "Deep Learning/Toolkits/Fairseq/Fairseq.md",
+    "Web Server & File Server/NFS.md",
+    "General/Go To Env Creation.md",
+    "General",
+    "Deep Learning/Concepts/LLM/De-duplication.md",
+    "Personal/Todo/June 4 2024.md",
+    "Personal/Todo",
     "Deep Learning/Toolkits/Slurm.md",
+    "Deep Learning/Toolkits/Fairseq/Fairseq.md",
     "Deep Learning/Toolkits/Fairseq/Fairseq Example.md",
     "Deep Learning/Toolkits/Fairseq",
     "Deep Learning/Toolkits/Fairseq/Fairseq + Multi-Node Training.md",
@@ -171,7 +177,6 @@
     "Deep Learning/_images/Pasted image 20240531134138.png",
     "Deep Learning/_images",
     "Pasted image 20240531133827.png",
-    "Web Server & File Server/NFS.md",
     "Deep Learning/Toolkits",
     "Todo/Learnings Todo.md",
     "Web Server & File Server/NFS Use Case.md",
@@ -196,13 +201,8 @@
     "Deep Learning/Concepts/LLM/Summarization.md",
     "Deep Learning/Concepts/LLM/LLM Home.md",
     "Deep Learning/Concepts/LLM/Retrieval Augmented Generation (RAG).md",
-    "Deep Learning/Concepts/ASR/ASR Home.md",
-    "Deep Learning/Models/markdown_template.md",
     "Todo",
-    "Deep Learning/Concepts/ASR",
-    "Deep Learning/Concepts/_images",
     "Deep Learning/Models/_images/Pasted image 20240310100332.png",
-    "Deep Learning/Models/Deep Learning Models Home.md",
     "Deep Learning/Concepts/LLM/Open-source Data Tools/images/Pasted image 20240301125750.png",
     "LLM/Open-source Data Tools/images/Pasted image 20240301125736.png",
     "Deep Learning/Concepts/LLM/Open-source Data Tools/images/Pasted image 20240301084051.png",
