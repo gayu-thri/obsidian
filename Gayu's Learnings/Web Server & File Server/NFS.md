@@ -26,7 +26,7 @@ mkdir /exports/backups
 ```bash
 vi /etc/exports 
 ```
-> */exports/backups 192.168.0.127(rw,sync,no_subtree_check) *
+> */exports/backups 192.168.0.127(rw,sync,no_subtree_check,no_root_squash) *
 
 - *no_subtree_check*
 	- System doesn't have to check permissions for every internal folder which will save time

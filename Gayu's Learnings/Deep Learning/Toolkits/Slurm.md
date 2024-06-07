@@ -27,3 +27,7 @@ $ scontrol show job <job_id>
 ```bash
 $ squeue
 ```
+- To authenticate master node
+```bash
+$ munge -n | ssh zlabs-gamd13 unmunge
+```

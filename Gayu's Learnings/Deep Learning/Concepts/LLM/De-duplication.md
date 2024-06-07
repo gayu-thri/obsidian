@@ -10,9 +10,16 @@ With de-duplicated data,
 - Only unique computations; Faster training
 - Model generalises well
 
-**Lexical de-duplication**
+##### Lexical de-duplication
 - Targets ==exact or near-exact matches== in the text
 - Steps
 	1. Normalise text
 	2. Tokenisation
 	3. MinHash and LSH
+
+##### Semantic de-duplication
+- Targets ==similar in meaning but necessarily in wording== in the text
+- Steps
+	1. Sentence Embeddings
+	2. FAISS (Facebook's) for Efficient Similarity Search
+		1. Select the most representative text from the cluster with duplicates
