@@ -2,6 +2,8 @@ https://medium.com/@jayantnehra18/effective-data-deduplication-for-training-robu
 https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1
 Conceptual references
 - https://mattilyra.github.io/2017/05/23/document-deduplication-with-lsh.html
+- http://infolab.stanford.edu/~ullman/mmds/ch3.pdf
+- https://github.com/Cerebras/modelzoo/tree/main/src/cerebras/modelzoo/data_preparation/nlp/slimpajama (Refer to its readme for understanding about their pipeline)
 ---
 ## My notes
 

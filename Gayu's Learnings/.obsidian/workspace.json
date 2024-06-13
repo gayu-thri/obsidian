@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers & Articles/LLM/SlimPajama.md",
+                "file": "Deep Learning/Concepts/LLM/De-duplication.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers & Articles/LLM/SlimPajama.md",
+                "file": "Deep Learning/Concepts/LLM/De-duplication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers & Articles/LLM/SlimPajama.md",
+                "file": "Deep Learning/Concepts/LLM/De-duplication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers & Articles/LLM/SlimPajama.md"
+                "file": "Deep Learning/Concepts/LLM/De-duplication.md"
               }
             }
           }
@@ -159,13 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aac7ba3904e0fec8",
+  "active": "e3f64e91c0c45264",
   "lastOpenFiles": [
+    "Papers & Articles/LLM/SlimPajama.md",
     "Papers & Articles/LLM/images/slimpajama_pipeline.png",
     "Papers & Articles/LLM/images/dataset_proportions.png",
     "Papers & Articles/LLM/images",
     "Deep Learning/Toolkits/Slurm.md",
-    "Papers & Articles/LLM/SlimPajama.md",
     "Papers & Articles/LLM",
     "Papers & Articles",
     "Deep Learning/Concepts/LLM/De-duplication.md",
@@ -205,7 +205,6 @@
     "Deep Learning/Concepts/LLM/Summarization.md",
     "Deep Learning/Models/_images/Pasted image 20240310100332.png",
     "Deep Learning/Concepts/LLM/Open-source Data Tools/images/Pasted image 20240301125750.png",
-    "LLM/Open-source Data Tools/images/Pasted image 20240301125736.png",
-    "Deep Learning/Concepts/LLM/Open-source Data Tools/images/Pasted image 20240301084051.png"
+    "LLM/Open-source Data Tools/images/Pasted image 20240301125736.png"
   ]
 }
