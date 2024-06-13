@@ -1,5 +1,9 @@
 https://medium.com/@jayantnehra18/effective-data-deduplication-for-training-robust-language-models-44467afac5bb
 https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1
+Conceptual references
+- https://mattilyra.github.io/2017/05/23/document-deduplication-with-lsh.html
+---
+## My notes
 
 Two types
 1. Lexical

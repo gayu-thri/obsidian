@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/Toolkits/Slurm.md",
+                "file": "Papers & Articles/LLM/SlimPajama.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep Learning/Toolkits/Slurm.md",
+                "file": "Papers & Articles/LLM/SlimPajama.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep Learning/Toolkits/Slurm.md",
+                "file": "Papers & Articles/LLM/SlimPajama.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep Learning/Toolkits/Slurm.md"
+                "file": "Papers & Articles/LLM/SlimPajama.md"
               }
             }
           }
@@ -159,11 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3f64e91c0c45264",
+  "active": "aac7ba3904e0fec8",
   "lastOpenFiles": [
-    "Web Server & File Server/NFS.md",
+    "Papers & Articles/LLM/images/slimpajama_pipeline.png",
+    "Papers & Articles/LLM/images/dataset_proportions.png",
+    "Papers & Articles/LLM/images",
     "Deep Learning/Toolkits/Slurm.md",
+    "Papers & Articles/LLM/SlimPajama.md",
+    "Papers & Articles/LLM",
+    "Papers & Articles",
     "Deep Learning/Concepts/LLM/De-duplication.md",
+    "Web Server & File Server/NFS.md",
     "General/Go To Env Creation.md",
     "General",
     "Personal/Todo/June 4 2024.md",
@@ -187,10 +193,8 @@
     "Bookmarks/General Bookmarks.md",
     "Personal/Gym/Gym Workouts.md",
     "Personal/Gym",
-    "Personal",
     "Bookmarks/ASR Bookmarks.md",
     "Deep Learning/Models/images/Pasted image 20240310100332.png",
-    "Deep Learning/Models/images",
     "Deep Learning Models Home.md",
     "().md",
     "Deep Learning/Models/Causal LM.md",
@@ -199,13 +203,9 @@
     "Deep Learning/Models/LLM.md",
     "Deep Learning/Models/Masked LM.md",
     "Deep Learning/Concepts/LLM/Summarization.md",
-    "Deep Learning/Concepts/LLM/LLM Home.md",
-    "Deep Learning/Concepts/LLM/Retrieval Augmented Generation (RAG).md",
-    "Todo",
     "Deep Learning/Models/_images/Pasted image 20240310100332.png",
     "Deep Learning/Concepts/LLM/Open-source Data Tools/images/Pasted image 20240301125750.png",
     "LLM/Open-source Data Tools/images/Pasted image 20240301125736.png",
-    "Deep Learning/Concepts/LLM/Open-source Data Tools/images/Pasted image 20240301084051.png",
-    "Deep Learning/Concepts/LLM/Open-source Data Tools/images/Pasted image 20240301082824.png"
+    "Deep Learning/Concepts/LLM/Open-source Data Tools/images/Pasted image 20240301084051.png"
   ]
 }
