@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bookmarks/General Bookmarks.md",
+                "file": "Web Server & File Server/Different approaches/Linux Applications Performance.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bookmarks/General Bookmarks.md",
+                "file": "Web Server & File Server/Different approaches/Linux Applications Performance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bookmarks/General Bookmarks.md",
+                "file": "Web Server & File Server/Different approaches/Linux Applications Performance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bookmarks/General Bookmarks.md"
+                "file": "Web Server & File Server/Different approaches/Linux Applications Performance.md"
               }
             }
           }
@@ -161,6 +161,11 @@
   },
   "active": "e3f64e91c0c45264",
   "lastOpenFiles": [
+    "Web Server & File Server/NFS Use Case.md",
+    "Web Server & File Server/NFS.md",
+    "Web Server & File Server/Different approaches/Linux Applications Performance.md",
+    "Bookmarks/General Bookmarks.md",
+    "Web Server & File Server/Different approaches",
     "Deep Learning/Concepts/LLM/De-duplication.md",
     "Papers & Articles/LLM/SlimPajama.md",
     "Papers & Articles/LLM/images/slimpajama_pipeline.png",
@@ -169,7 +174,6 @@
     "Deep Learning/Toolkits/Slurm.md",
     "Papers & Articles/LLM",
     "Papers & Articles",
-    "Web Server & File Server/NFS.md",
     "General/Go To Env Creation.md",
     "General",
     "Personal/Todo/June 4 2024.md",
@@ -185,14 +189,11 @@
     "Pasted image 20240531133827.png",
     "Deep Learning/Toolkits",
     "Todo/Learnings Todo.md",
-    "Web Server & File Server/NFS Use Case.md",
     "My Home.md",
     "Date specific notes.md",
     "Todo/Papers To Read.md",
     "Web Server & File Server",
-    "Bookmarks/General Bookmarks.md",
     "Personal/Gym/Gym Workouts.md",
-    "Personal/Gym",
     "Bookmarks/ASR Bookmarks.md",
     "Deep Learning/Models/images/Pasted image 20240310100332.png",
     "Deep Learning Models Home.md",
