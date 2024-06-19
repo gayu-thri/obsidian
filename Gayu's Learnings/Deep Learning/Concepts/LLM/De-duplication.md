@@ -7,6 +7,12 @@ Conceptual references
 ---
 ## My notes
 
+#### Existing Strategies
+- MinHash, LSH
+	- Modified version in SlimPajama scales more easily
+- Near-Duplicate Bloom Filtering 
+	- Modified version in DataComp-lm scales more easily
+#### Abouts
 Two types
 1. Lexical
 2. Semantic
@@ -29,3 +35,4 @@ With de-duplicated data,
 	1. Sentence Embeddings
 	2. FAISS (Facebook's) for Efficient Similarity Search
 		1. Select the most representative text from the cluster with duplicates
+

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers & Articles/LLM/SlimPajama.md",
+                "file": "Papers & Articles/LLM/DataComp-LM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers & Articles/LLM/SlimPajama.md",
+                "file": "Papers & Articles/LLM/DataComp-LM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers & Articles/LLM/SlimPajama.md",
+                "file": "Papers & Articles/LLM/DataComp-LM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers & Articles/LLM/SlimPajama.md"
+                "file": "Papers & Articles/LLM/DataComp-LM.md"
               }
             }
           }
@@ -148,14 +148,16 @@
   },
   "active": "e3f64e91c0c45264",
   "lastOpenFiles": [
+    "Papers & Articles/LLM/SlimPajama Codebase.md",
+    "Papers & Articles/LLM/SlimPajama.md",
+    "Papers & Articles/LLM/DataComp-LM.md",
     "Deep Learning/Concepts/LLM/De-duplication.md",
+    "Web Server & File Server/NFS.md",
     "Web Server & File Server/Different approaches/Linux Applications Performance.md",
     "Deep Learning/Toolkits/Fairseq/Fairseq.md",
     "Web Server & File Server/NFS Use Case.md",
-    "Web Server & File Server/NFS.md",
     "Bookmarks/General Bookmarks.md",
     "Web Server & File Server/Different approaches",
-    "Papers & Articles/LLM/SlimPajama.md",
     "Papers & Articles/LLM/images/slimpajama_pipeline.png",
     "Papers & Articles/LLM/images/dataset_proportions.png",
     "Papers & Articles/LLM/images",
@@ -189,8 +191,6 @@
     "Deep Learning/Deep Learning Home.md",
     "Deep Learning/Models/Transformers.md",
     "Deep Learning/Models/LLM.md",
-    "Deep Learning/Models/Masked LM.md",
-    "Deep Learning/Concepts/LLM/Summarization.md",
     "Deep Learning/Models/_images/Pasted image 20240310100332.png",
     "Deep Learning/Concepts/LLM/Open-source Data Tools/images/Pasted image 20240301125750.png",
     "LLM/Open-source Data Tools/images/Pasted image 20240301125736.png"

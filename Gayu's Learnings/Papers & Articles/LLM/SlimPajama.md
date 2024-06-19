@@ -12,9 +12,11 @@
 - Discoveries
 	- Best config >>> 1.3B model trained on RedPajama (same no. of training tokens)
 	- 1. Global De-duplication; 2. Increasing Data Diversity on 7B with >Batch size
+- ==*Looks like Lexical de-duplication*==
 - Advantages of de-duplication in general
 	- Model isn't repeatedly exposed to same/similar data points - Efficient training
 	- Redundant data - Slow convergence, Model overfiting.	
+	
 ### In this paper
 - Primary Areas in Research:
 	1. Global-level & Local-level deduplication
@@ -96,14 +98,14 @@ Note: every step produces a transformed version of the dataset. Be sure to provi
 	3. Build graph representation to locate connected components with duplicates
 	4. Filter duplicates in each component
 - Stages in detail:
-    1. ***MinHash Generation***
+    1. ==***MinHash Generation***== (Script: **to_hash.py**)
         - Very slow process
             - **NOTE**: Recommended to be run separately before building index
         - Stages:
             - Strip, lowercase, remove punctuation, consecutive spaces, \n, \t
             - **Construct list of 13-grams**
                 - Used as features to create document signature to add into MinHashLSH index
-    2. ***Duplicate Pairs Generation*** - Build MinHashLSH index
+    2. ==***Duplicate Pairs== Generation*** - MinHashLSH index (Script: **generate_duplicate_pairs.py**)
         Jaccard similarity thresold = 0.8
         - Script used: [datasketch/lsh.py](https://github.com/ekzhu/datasketch/blob/master/datasketch/lsh.py#L22)
         - This step -> 1.4TB of RAM for 1.21T tokens of RedPajama
@@ -111,7 +113,7 @@ Note: every step produces a transformed version of the dataset. Be sure to provi
             - Split LSH object into multiple buckets to reduce memory consumption
         - NOTE: total number of processes that will be created is <n_processes> + bands
 
-    3. ***Duplicate Graph Construction & Search for Connected Components***
+    3. ***Duplicate Graph Construction & Search for ==Connected Components==*** (Script: **generate_connected_components.py**)
         - Find connected components containing docs that are duplicate with each other
         - **Constructs a graph** from document pairs
         - Example: 
@@ -121,6 +123,6 @@ Note: every step produces a transformed version of the dataset. Be sure to provi
             - Evaluated the performance and memory consumption of `networkx`, `graphtool`, and `networkit`. 
             - `networkit` offered most efficient implementation as it is designed to work with large graphs and features great parallelism.
 
-	4. ***Generate Final List of Duplicates***
+	4. ***Generate ==Final List of Duplicates***== (Script: **deduplicate_dataset.py**)
         - Process connected components & **create lookup table** to filter duplicates later
 
