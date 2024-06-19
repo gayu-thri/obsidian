@@ -79,38 +79,38 @@ Note: every step produces a transformed version of the dataset. Be sure to provi
 - Producer-consumer schema - Parallelize I/O operations that dominate runtime
 - Addtnl code changes to reduce memory utilization 
 	- Keep only 1 document per set of duplicates in memory
-- **Strategy used**: Global de-duplication as it removes duplicates both within & between each data source
+- **Strategy used**: ==Global de-duplication== as it removes duplicates both within & between each data source
 - **SIDE NOTES**: 
     - First open-sourced deduplication library written in Python to process Trillion token datasets
     - Percentage of data source bytes duplication rate: 49.6%
     - Most significant duplication found in CC & GitHub
-- Algorithm used: **MinHashLSH**
-    - **NOTE**: Vanilla implementation of MinHashLash doesn't scale to 1T token datasets like RedPajama without **running out of memory**
+- Algorithm used: **==MinHashLSH==**
+    - **NOTE**: Vanilla implementation of MinHashLash doesn't scale to 1T token datasets like RedPajama without ==**running out of memory==**
         - Solution: 
-            - Optimizing memory usage; 
-            - Parallelization to perform deduplication on 64 CPU cores with 1.4TB peak memory
-            - Easily decreased by creating multiple MinHashLSH objects to query
+            - ==Optimizing memory usage;== 
+            - ==Parallelization to perform deduplication on 64 CPU cores with 1.4TB peak memory==
+            - ==Easily decreased by creating multiple MinHashLSH objects to query==
 - Multiple stages:
 	1. Build MinHashLSH index
 	2. Query into index to locate duplicates
 	3. Build graph representation to locate connected components with duplicates
 	4. Filter duplicates in each component
 - Stages in detail:
-    1. MinHash Generation
+    1. ***MinHash Generation***
         - Very slow process
             - **NOTE**: Recommended to be run separately before building index
         - Stages:
             - Strip, lowercase, remove punctuation, consecutive spaces, \n, \t
             - **Construct list of 13-grams**
                 - Used as features to create document signature to add into MinHashLSH index
-    2. Build MinHashLSH index - **Duplicate Pairs Generation**
+    2. ***Duplicate Pairs Generation*** - Build MinHashLSH index
         - Jaccard similarity thresold = 0.8
         - Script used: [datasketch/lsh.py](https://github.com/ekzhu/datasketch/blob/master/datasketch/lsh.py#L22)
         - This step -> 1.4TB of RAM for 1.21T tokens of RedPajama
         - In case of memory issues,
             - Split LSH object into multiple buckets to reduce memory consumption
         - NOTE: total number of processes that will be created is <n_processes> + <bands>
-    3. Duplicate Graph Construction & Search for Connected Components
+       3. ***Duplicate Graph Construction & Search for Connected Components***
         - Find connected components containing docs that are duplicate with each other
         - **Constructs a graph** from document pairs
         - Example: 
@@ -119,6 +119,6 @@ Note: every step produces a transformed version of the dataset. Be sure to provi
         - Toolkit: 
             - Evaluated the performance and memory consumption of `networkx`, `graphtool`, and `networkit`. 
             - `networkit` offered most efficient implementation as it is designed to work with large graphs and features great parallelism.
-    4. General Final List of Duplicates
+      4. ***Generate Final List of Duplicates***
         - Process connected components & **create lookup table** to filter duplicates later
 
