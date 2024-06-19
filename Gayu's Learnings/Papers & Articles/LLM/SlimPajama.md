@@ -104,13 +104,14 @@ Note: every step produces a transformed version of the dataset. Be sure to provi
             - **Construct list of 13-grams**
                 - Used as features to create document signature to add into MinHashLSH index
     2. ***Duplicate Pairs Generation*** - Build MinHashLSH index
-        - Jaccard similarity thresold = 0.8
+        Jaccard similarity thresold = 0.8
         - Script used: [datasketch/lsh.py](https://github.com/ekzhu/datasketch/blob/master/datasketch/lsh.py#L22)
         - This step -> 1.4TB of RAM for 1.21T tokens of RedPajama
         - In case of memory issues,
             - Split LSH object into multiple buckets to reduce memory consumption
-        - NOTE: total number of processes that will be created is <n_processes> + <bands>
-       3. ***Duplicate Graph Construction & Search for Connected Components***
+        - NOTE: total number of processes that will be created is <n_processes> + bands
+
+    3. ***Duplicate Graph Construction & Search for Connected Components***
         - Find connected components containing docs that are duplicate with each other
         - **Constructs a graph** from document pairs
         - Example: 
@@ -119,6 +120,7 @@ Note: every step produces a transformed version of the dataset. Be sure to provi
         - Toolkit: 
             - Evaluated the performance and memory consumption of `networkx`, `graphtool`, and `networkit`. 
             - `networkit` offered most efficient implementation as it is designed to work with large graphs and features great parallelism.
-      4. ***Generate Final List of Duplicates***
+
+	4. ***Generate Final List of Duplicates***
         - Process connected components & **create lookup table** to filter duplicates later
 
