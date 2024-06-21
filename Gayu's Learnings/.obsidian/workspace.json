@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers & Articles/LLM/DataComp-LM.md",
+                "file": "Papers & Articles/LLM/SlimPajama Codebase.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers & Articles/LLM/DataComp-LM.md",
+                "file": "Papers & Articles/LLM/SlimPajama Codebase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers & Articles/LLM/DataComp-LM.md",
+                "file": "Papers & Articles/LLM/SlimPajama Codebase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers & Articles/LLM/DataComp-LM.md"
+                "file": "Papers & Articles/LLM/SlimPajama Codebase.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "e3f64e91c0c45264",
   "lastOpenFiles": [
+    "Papers & Articles/LLM/DataComp-LM.md",
     "Papers & Articles/LLM/images/Pasted image 20240621143449.png",
     "Papers & Articles/LLM/images/Pasted image 20240620125056.png",
     "Papers & Articles/LLM/SlimPajama Codebase.md",
     "Papers & Articles/LLM/SlimPajama.md",
-    "Papers & Articles/LLM/DataComp-LM.md",
     "Deep Learning/Concepts/LLM/De-duplication.md",
     "Web Server & File Server/NFS.md",
     "Web Server & File Server/Different approaches/Linux Applications Performance.md",
@@ -192,7 +192,6 @@
     "Deep Learning/Models/Causal LM.md",
     "Deep Learning/Deep Learning Home.md",
     "Deep Learning/Models/Transformers.md",
-    "Deep Learning/Models/_images/Pasted image 20240310100332.png",
-    "Deep Learning/Concepts/LLM/Open-source Data Tools/images/Pasted image 20240301125750.png"
+    "Deep Learning/Models/_images/Pasted image 20240310100332.png"
   ]
 }

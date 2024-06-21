@@ -85,6 +85,13 @@ https://arxiv.org/pdf/2406.11794
 							- If >threshold ngrams in para contained in Bloom filter,
 								- Entire paragraph is removed from doc
 						- Otherwise, add to bloom filter
+			- Once all paragraphs have been processed, 
+				- if ratio of contained_ngrams & total_ngrams > threshold
+					- Entire document is removed from corpus
+	- Reasons for hyperparameter choices in Bloom filter:
+		- False positive rate:
+		- min_ngram_size:
+		- threshold:
 #### Model based filtering approaches
 1. **PageRank** score filtering
 2. **Semantic deduplication** - similar info
