@@ -27,7 +27,7 @@ With de-duplicated data,
 - Steps
 	1. Normalise text
 	2. Tokenisation
-	3. MinHash and LSH
+	3. MinHash (tokens -> hash) and LSH (grouping hashes into cluster of similar texts)
 
 ##### Semantic de-duplication
 - Targets ==similar in meaning but necessarily in wording== in the text

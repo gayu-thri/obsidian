@@ -1,5 +1,6 @@
 https://arxiv.org/pdf/2406.11794
-
+#### Conclusion on different approaches
+- *TODO (Read ablations study)*
 #### De-duplication
 
 - Strategy used in pipeline: 
@@ -64,7 +65,7 @@ https://arxiv.org/pdf/2406.11794
 			- ![[Pasted image 20240621143449.png]]
 			- Trivial to use binary search algorithm
 		- Once bloom filter is established, steps below followed
-		- Each doc in corpus,
+		- Steps followed for each doc in corpus,
 			- Tokenize doc - UniSeg tokenizer
 			- Break doc -> paragraphs (Split using \n)
 			- Maintain total_ngrams, contained_ngrams
@@ -88,10 +89,29 @@ https://arxiv.org/pdf/2406.11794
 			- Once all paragraphs have been processed, 
 				- if ratio of contained_ngrams & total_ngrams > threshold
 					- Entire document is removed from corpus
-	- Reasons for hyperparameter choices in Bloom filter:
-		- False positive rate:
-		- min_ngram_size:
-		- threshold:
+- **Reasons for hyperparameter choices in Bloom filter:**
+	- Two main parameters - deciding memory footprint required by BFF
+		- False positive rate (Controllable), Number of tokens
+	> NOTE: Bloom filter size scales linearly with the negative log of FP rate
+	- ==In general,== 
+		- ==1T tokens corpus - 2TB disk space - No FPs (1 in 1T)==
+			- **==Requires 6.5TB of RAM==**
+	- For choosing FP rate,
+		- Removal of para/doc - greater than threshold fraction of ngrams in set
+		- Example:
+			- Paragraph = ***N*** grams
+			- ***S*** already in Bloom Filter
+			- Threshold = ***T***
+			- S = ngrams (Contained); (N - S) = FP (May be)
+				- Note: Bloom filters doesn't allow FNs
+				- Out of (N - S) grams,
+					- at least (TN - S) = FP (Occurs independently with probability ϵ)
+					- Bounded by crude Hoeffding bound
+			- ![[Pasted image 20240624123245.png]]
+	- For choosing min_ngram_size,
+		- TODO
+	- For choosing threshold,
+		- TODO
 #### Model based filtering approaches
 1. **PageRank** score filtering
 2. **Semantic deduplication** - similar info
