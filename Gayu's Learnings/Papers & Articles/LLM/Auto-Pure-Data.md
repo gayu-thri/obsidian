@@ -1,0 +1,11 @@
+- Literature Review
+	- FineWeb dataset - refined de-duplicated raw data; but has unsafe/unwanted text
+	- SHED - Automated dataset refinement
+		- selects most informative data
+	- LLMClean - Automated data cleaning
+		- ==Rule-based== & ML-based cleaning tools
+	- Conclusion
+		- Existing work focus on leveraging tools for data curation
+		- Doesn't address regular automated filtration - AI safety
+- Proposals
+	- The system also filters data from untrusted sources, even if the data appears safe

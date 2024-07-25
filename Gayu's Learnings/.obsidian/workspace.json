@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers & Articles/LLM/DataComp-LM Codebase.md",
+                "file": "Deep Learning/Concepts/CUDA/CUDA Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers & Articles/LLM/DataComp-LM Codebase.md",
+                "file": "Deep Learning/Concepts/CUDA/CUDA Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers & Articles/LLM/DataComp-LM Codebase.md",
+                "file": "Deep Learning/Concepts/CUDA/CUDA Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers & Articles/LLM/DataComp-LM Codebase.md"
+                "file": "Deep Learning/Concepts/CUDA/CUDA Home.md"
               }
             }
           }
@@ -148,10 +148,13 @@
   },
   "active": "e3f64e91c0c45264",
   "lastOpenFiles": [
+    "Papers & Articles/LLM/Auto-Pure-Data.md",
+    "Deep Learning/Concepts/CUDA/CUDA Home.md",
+    "Deep Learning/Concepts/CUDA",
+    "Papers & Articles/LLM/DataComp-LM Codebase.md",
     "General/Go To Env Creation.md",
     "Deep Learning/Concepts/LLM/De-duplication.md",
     "Papers & Articles/LLM/DataComp-LM Paper.md",
-    "Papers & Articles/LLM/DataComp-LM Codebase.md",
     "Pasted image 20240624124857.png",
     "Papers & Articles/LLM/images/Pasted image 20240624123245.png",
     "Papers & Articles/LLM/SlimPajama Codebase.md",
@@ -186,12 +189,10 @@
     "My Home.md",
     "Date specific notes.md",
     "Todo/Papers To Read.md",
-    "Web Server & File Server",
     "Personal/Gym/Gym Workouts.md",
     "Bookmarks/ASR Bookmarks.md",
     "Deep Learning Models Home.md",
     "().md",
-    "Deep Learning/Models/Causal LM.md",
-    "Deep Learning/Deep Learning Home.md"
+    "Deep Learning/Models/Causal LM.md"
   ]
 }
