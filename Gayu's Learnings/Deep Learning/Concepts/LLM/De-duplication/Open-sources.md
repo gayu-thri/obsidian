@@ -1,0 +1,14 @@
+### SlimPajama
+- De-duplication Type = Global de-duplication (within and between each data source)
+- Algorithm used = MinHashLSH
+- Algorithm briefing
+	- Jaccard similarity threshold = 0.8
+	- Document signatures constructed with pre-processed lowercase 13-grams
+	- Pre-processing: 
+		- Punctuation, consecutive spaces, newlines, tabs, and leading or trailing escape characters are removed
+-  Limitations of vanilla MinHashLSH
+	- Did not scale to trillion token datasets like RedPajama **(Ran out of memory)**
+	- Solution:
+		- Optimising memory usage
+		- Parallelisation to perform de-duplication on 64 CPU cores with 1.4TB peak memory
+		- Creating multiple MinHashLSH objects to query

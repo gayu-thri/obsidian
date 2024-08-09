@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c6b65aba9e54aea2",
+        "id": "ead3e9a25606e93b",
         "type": "tabs",
         "children": [
           {
-            "id": "e3f64e91c0c45264",
+            "id": "695500d21cb930f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/Concepts/CUDA/CUDA Home.md",
+                "file": "Deep Learning/Concepts/LLM/De-duplication/Open-sources.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep Learning/Concepts/CUDA/CUDA Home.md",
+                "file": "Deep Learning/Concepts/LLM/De-duplication/Open-sources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep Learning/Concepts/CUDA/CUDA Home.md",
+                "file": "Deep Learning/Concepts/LLM/De-duplication/Open-sources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep Learning/Concepts/CUDA/CUDA Home.md"
+                "file": "Deep Learning/Concepts/LLM/De-duplication/Open-sources.md"
               }
             }
           }
@@ -146,14 +146,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3f64e91c0c45264",
+  "active": "695500d21cb930f9",
   "lastOpenFiles": [
-    "Papers & Articles/LLM/Auto-Pure-Data.md",
+    "Deep Learning/Concepts/LLM/De-duplication/De-duplication.md",
+    "Deep Learning/Concepts/LLM/De-duplication/Open-sources.md",
+    "Deep Learning/Concepts/LLM/De-duplication",
+    "General/Go To Env Creation.md",
+    "Bookmarks/ASR Bookmarks.md",
+    "My Home.md",
+    "Deep Learning/Deep Learning Home.md",
+    "Deep Learning/Toolkits/Slurm.md",
+    "Bookmarks/LLM Bookmarks.md",
+    "Bookmarks/Deep Learning Bookmarks.md",
+    "Bookmarks/Untitled",
+    "Bookmarks/General Bookmarks.md",
+    "Deep Learning/Models/LLM.md",
+    "Todo/Papers To Read.md",
+    "Todo/Learnings Todo.md",
     "Deep Learning/Concepts/CUDA/CUDA Home.md",
+    "Papers & Articles/LLM/Auto-Pure-Data.md",
     "Deep Learning/Concepts/CUDA",
     "Papers & Articles/LLM/DataComp-LM Codebase.md",
-    "General/Go To Env Creation.md",
-    "Deep Learning/Concepts/LLM/De-duplication.md",
     "Papers & Articles/LLM/DataComp-LM Paper.md",
     "Pasted image 20240624124857.png",
     "Papers & Articles/LLM/images/Pasted image 20240624123245.png",
@@ -165,12 +178,10 @@
     "Web Server & File Server/Different approaches/Linux Applications Performance.md",
     "Deep Learning/Toolkits/Fairseq/Fairseq.md",
     "Web Server & File Server/NFS Use Case.md",
-    "Bookmarks/General Bookmarks.md",
     "Web Server & File Server/Different approaches",
     "Papers & Articles/LLM/images/slimpajama_pipeline.png",
     "Papers & Articles/LLM/images/dataset_proportions.png",
     "Papers & Articles/LLM/images",
-    "Deep Learning/Toolkits/Slurm.md",
     "Papers & Articles/LLM",
     "Papers & Articles",
     "General",
@@ -182,17 +193,6 @@
     "Deep Learning/_images/Pasted image 20240531134155.png",
     "Deep Learning/_images/Pasted image 20240531133821.png",
     "Deep Learning/_images/Pasted image 20240531134138.png",
-    "Deep Learning/_images",
-    "Pasted image 20240531133827.png",
-    "Deep Learning/Toolkits",
-    "Todo/Learnings Todo.md",
-    "My Home.md",
-    "Date specific notes.md",
-    "Todo/Papers To Read.md",
-    "Personal/Gym/Gym Workouts.md",
-    "Bookmarks/ASR Bookmarks.md",
-    "Deep Learning Models Home.md",
-    "().md",
-    "Deep Learning/Models/Causal LM.md"
+    "Pasted image 20240531133827.png"
   ]
 }
