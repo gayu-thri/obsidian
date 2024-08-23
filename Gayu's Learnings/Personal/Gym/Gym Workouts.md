@@ -17,39 +17,38 @@ Deadlift on every day will be good
 
 ---
 #### >> Chest
-- Inclined press at 35 degrees  
-- Dumbbell bench press (Flat)  
-- Chest fly  
-- Cable crossover  
-- Dumbbell pullover (Flat)
+- Inclined press at 35 degrees (5 kg)  
+- Dumbbell bench press (Flat) (Rod with 1.25kg OR 7.5 kg dumbell)
+- Chest fly (25 kg)
+- Cable crossover (10 kg)
+- Dumbbell pullover (Flat) (Lying down) (10 kg)
 
 ---
 #### >> Triceps
-- Overhead cable extension  
-- Cable Push down  
-- Skull crushers  
-- Triceps extension (7.5kg) Single/Both hands  
-- Kickbacks
+- Overhead cable extension (20 kg)  
+- Cable Push down (15 kg)
+- Skull crushers  (4 kg)
+- Triceps extension (7.5kg) Single (Preferred - 3 kg) /Both hands  
+- Kickbacks (4 kg)
 ---
 #### >> Lat
-- Pull down 
-- Reverse pull down
-- Dumbbell row (7.5 kg)
-- Seated cable row
-- Face pull down
+- Pull down (50 kg)
+- Reverse pull down (28 kg)
+- Dumbbell row (7.5 kg) (Caution: Fatigue)
+- Seated cable row (45 kg)
 - Straight arm pull down
-- Barbell row (2.5 kg on each side)
+- Barbell row (5 kg on each side)
 ---
 #### >> Biceps
-- Dumbbell / Barbell curl
-- Inclined dumbbell curl
-- Cable curl
-- Bent-over row
-- Concentration curl
-- Preacher curl (Little harder than concentration)
+- Dumbbell / Barbell curl (4 kg)
+- Inclined dumbbell curl (4 kg)
+- Cable curl - Straight rod MACHINE (10 kg)
+- Hammer curl MACHINE (10 kg)
+- Concentration curl (4 kg)
+- Preacher curl (Little harder than concentration) (Plain yellow colored rod)
 ---
 #### >> Shoulders
-- Dumbbell Shoulder press
+- Dumbbell Shoulder press (
 - Dumbbell front raise
 - Upright row
 - Lateral raise
