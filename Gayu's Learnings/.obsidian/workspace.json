@@ -11,12 +11,8 @@
             "id": "695500d21cb930f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deep Learning/Concepts/LLM/De-duplication/Open-sources.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -65,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep Learning/Concepts/LLM/De-duplication/Open-sources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep Learning/Concepts/LLM/De-duplication/Open-sources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Deep Learning/Concepts/LLM/De-duplication/Open-sources.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,7 +141,12 @@
   },
   "active": "695500d21cb930f9",
   "lastOpenFiles": [
+    "Deep Learning/Concepts/LLM/De-duplication/Papers/292_the_bigscience_roots_corpus_a_.pdf",
+    "Deep Learning/Concepts/LLM/De-duplication/Papers/292_the_bigscience_roots_corpus_a_.pdf.crdownload",
+    "Deep Learning/Concepts/LLM/De-duplication/Papers",
+    "Untitled.canvas",
     "Deep Learning/Concepts/LLM/De-duplication/De-duplication.md",
+    "Deep Learning/Concepts/_images/Pasted image 20240624124857.png",
     "Deep Learning/Concepts/LLM/De-duplication/Open-sources.md",
     "Deep Learning/Concepts/LLM/De-duplication",
     "General/Go To Env Creation.md",
@@ -168,7 +166,6 @@
     "Deep Learning/Concepts/CUDA",
     "Papers & Articles/LLM/DataComp-LM Codebase.md",
     "Papers & Articles/LLM/DataComp-LM Paper.md",
-    "Pasted image 20240624124857.png",
     "Papers & Articles/LLM/images/Pasted image 20240624123245.png",
     "Papers & Articles/LLM/SlimPajama Codebase.md",
     "Papers & Articles/LLM/images/Pasted image 20240621143449.png",
@@ -186,10 +183,7 @@
     "Papers & Articles",
     "General",
     "Personal/Todo/June 4 2024.md",
-    "Personal/Todo",
     "Deep Learning/Toolkits/Fairseq/Fairseq Example.md",
-    "Deep Learning/Toolkits/Fairseq",
-    "Deep Learning/Toolkits/Fairseq/Fairseq + Multi-Node Training.md",
     "Deep Learning/_images/Pasted image 20240531134155.png",
     "Deep Learning/_images/Pasted image 20240531133821.png",
     "Deep Learning/_images/Pasted image 20240531134138.png",

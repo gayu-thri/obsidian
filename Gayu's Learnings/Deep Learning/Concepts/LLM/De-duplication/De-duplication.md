@@ -4,6 +4,8 @@ Conceptual references
 - https://mattilyra.github.io/2017/05/23/document-deduplication-with-lsh.html
 - http://infolab.stanford.edu/~ullman/mmds/ch3.pdf
 - https://github.com/Cerebras/modelzoo/tree/main/src/cerebras/modelzoo/data_preparation/nlp/slimpajama (Refer to its readme for understanding about their pipeline)
+- https://dzone.com/articles/minhash-lsh-implementation-walkthrough
+- https://huggingface.co/blog/dedup
 ---
 ## My notes
 
