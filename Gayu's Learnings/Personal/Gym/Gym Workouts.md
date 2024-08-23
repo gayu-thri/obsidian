@@ -48,12 +48,12 @@ Deadlift on every day will be good
 - Preacher curl (Little harder than concentration) (Plain yellow colored rod)
 ---
 #### >> Shoulders
-- Dumbbell Shoulder press (
-- Dumbbell front raise
-- Upright row
-- Lateral raise
-- Reverse fly
-- Shrugs
+- Dumbbell Shoulder press (7.5 kg)
+- Dumbbell front raise (plain rod / disc (+car driving))
+- Upright row (yellow rod + 2.5 kg)
+- Lateral raise (Difficult: Slanting 2.5 kg) (Normal standing: 3 kg)
+- Reverse fly (20 kg)
+- Shrugs (10 kg)
 - Face pull
 ---
 #### >> Leg
@@ -64,13 +64,15 @@ Deadlift on every day will be good
 	- Leg on leg and lie down and hold supporting leg
 	- Calves stretch
 - Free squats (Without and with rod alone)
-- Squats
-- Leg curls (21 kg)
-- Leg extension (14 kg)
-- Leg press (25 kg)
-- Calf raises
+- Squats (7.5 kg on each side)
+- Leg curls (28 kg)
+- Leg extension (35 kg)
+- Leg press (40 kg)
+- Calf raises (15 kg)
 - Extras
-	- Goblet squat
-	- Sumo squat
-	- Lunges (Normal / Walking)
+	- Goblet squat (10 kg)
+	- Sumo squat (10 kg)
+	- Lunges (Normal / Walking) (4 kg)
+        - Bulgarian squat
+        - Hack squat
 ---
