@@ -69,7 +69,7 @@ Deadlift on every day will be good
 - Leg extension (35 kg)
 - Leg press (40 kg)
 - Calf raises (15 kg)
-- Extras
+- Extras (One of them will suffice)
 	- Goblet squat (10 kg)
 	- Sumo squat (10 kg)
 	- Lunges (Normal / Walking) (4 kg)
