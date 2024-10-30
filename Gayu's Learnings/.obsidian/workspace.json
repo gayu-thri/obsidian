@@ -11,8 +11,12 @@
             "id": "695500d21cb930f9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Papers & Articles/LLM/Datasets/CCI3.0-HQ Dataset.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,12 +65,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 282.5026054382324
+    "width": 282.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "3cddeeb6fbef4330",
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Papers & Articles/LLM/Datasets/CCI3.0-HQ Dataset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Papers & Articles/LLM/Datasets/CCI3.0-HQ Dataset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Papers & Articles/LLM/Datasets/CCI3.0-HQ Dataset.md"
+              }
             }
           }
         ]
@@ -141,18 +149,22 @@
   },
   "active": "695500d21cb930f9",
   "lastOpenFiles": [
-    "Papers & Articles/Deduplication/292_the_bigscience_roots_corpus_a_.pdf",
-    "Papers & Articles/Deduplication/292_the_bigscience_roots_corpus_a_.pdf.crdownload",
-    "Papers & Articles/Deduplication",
-    "Papers & Articles/LLM/De-duplication",
-    "Deep Learning/Concepts/LLM/De-duplication/Papers/292_the_bigscience_roots_corpus_a_.pdf",
-    "Deep Learning/Concepts/LLM/De-duplication/Papers/292_the_bigscience_roots_corpus_a_.pdf.crdownload",
-    "Deep Learning/Concepts/LLM/De-duplication/Papers",
+    "Papers & Articles/LLM/Auto-Pure-Data.md",
+    "Papers & Articles/LLM/Datasets/CCI3.0-HQ Dataset.md",
     "Untitled.canvas",
+    "Papers & Articles/LLM/Datasets",
     "Deep Learning/Concepts/LLM/De-duplication/De-duplication.md",
+    "Papers & Articles/Deduplication/minhash/c4.pdf",
+    "Papers & Articles/Deduplication/minhash/The Pile: An 800GB Dataset of Diverse Text for Language Modeling.pdf",
+    "Papers & Articles/Deduplication/minhash/The Pile: An 800GB Dataset of Diverse Text for Language Modeling.pdf.crdownload",
+    "Papers & Articles/Deduplication/minhash/Deduplicating Training Data Makes Language Models Better.pdf",
+    "Papers & Articles/Deduplication/minhash/2107.06499v2.pdf",
+    "Papers & Articles/Deduplication/minhash/2107.06499v2.pdf.crdownload",
+    "Papers & Articles/Deduplication/minhash",
+    "Papers & Articles/Deduplication/simhash/292_the_bigscience_roots_corpus_a_.pdf",
+    "Papers & Articles/Deduplication/simhash",
     "Deep Learning/Concepts/_images/Pasted image 20240624124857.png",
     "Deep Learning/Concepts/LLM/De-duplication/Open-sources.md",
-    "Deep Learning/Concepts/LLM/De-duplication",
     "General/Go To Env Creation.md",
     "Bookmarks/ASR Bookmarks.md",
     "My Home.md",
@@ -160,14 +172,11 @@
     "Deep Learning/Toolkits/Slurm.md",
     "Bookmarks/LLM Bookmarks.md",
     "Bookmarks/Deep Learning Bookmarks.md",
-    "Bookmarks/Untitled",
     "Bookmarks/General Bookmarks.md",
     "Deep Learning/Models/LLM.md",
     "Todo/Papers To Read.md",
     "Todo/Learnings Todo.md",
     "Deep Learning/Concepts/CUDA/CUDA Home.md",
-    "Papers & Articles/LLM/Auto-Pure-Data.md",
-    "Deep Learning/Concepts/CUDA",
     "Papers & Articles/LLM/DataComp-LM Codebase.md",
     "Papers & Articles/LLM/DataComp-LM Paper.md",
     "Papers & Articles/LLM/images/Pasted image 20240624123245.png",
@@ -179,7 +188,6 @@
     "Web Server & File Server/Different approaches/Linux Applications Performance.md",
     "Deep Learning/Toolkits/Fairseq/Fairseq.md",
     "Web Server & File Server/NFS Use Case.md",
-    "Web Server & File Server/Different approaches",
     "Papers & Articles/LLM/images/slimpajama_pipeline.png",
     "Papers & Articles/LLM/images/dataset_proportions.png",
     "Personal/Todo/June 4 2024.md",
