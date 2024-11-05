@@ -11,15 +11,24 @@
             "id": "695500d21cb930f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Deep Learning/Concepts/LLM/De-duplication/MinHash.md",
-                "mode": "source",
-                "source": false
+                "file": "Deep Learning/Concepts/LLM/De-duplication/images/Pasted image 20241101075020.png"
+              }
+            }
+          },
+          {
+            "id": "48fb091d517c5ea2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Deep Learning/Concepts/LLM/De-duplication/images/Pasted image 20241101075245.png"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep Learning/Concepts/LLM/De-duplication/MinHash.md",
+                "file": "Deep Learning/Concepts/LLM/De-duplication/images/Pasted image 20241101075245.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep Learning/Concepts/LLM/De-duplication/MinHash.md",
+                "file": "Deep Learning/Concepts/LLM/De-duplication/images/Pasted image 20241101075245.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep Learning/Concepts/LLM/De-duplication/MinHash.md"
+                "file": "Deep Learning/Concepts/LLM/De-duplication/images/Pasted image 20241101075245.png"
               }
             }
           }
@@ -146,14 +155,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "695500d21cb930f9",
+  "active": "aac7ba3904e0fec8",
   "lastOpenFiles": [
-    "Pasted image 20241101075245.png",
-    "Pasted image 20241101075020.png",
+    "Deep Learning/Concepts/LLM/De-duplication/images/Pasted image 20241101075020.png",
+    "Deep Learning/Concepts/LLM/De-duplication/images/Pasted image 20241101075245.png",
+    "Deep Learning/Concepts/LLM/De-duplication/MinHash.md",
     "Deep Learning/Concepts/LLM/De-duplication/images",
     "Deep Learning/Concepts/LLM/De-duplication/images/Pasted image 20241101073030.png",
     "Deep Learning/Concepts/LLM/De-duplication/De-duplication.md",
-    "Deep Learning/Concepts/LLM/De-duplication/MinHash.md",
     "Deep Learning/Concepts/LLM/De-duplication/Open-sources.md",
     "Papers & Articles/Deduplication/minhash/c4.pdf",
     "Papers & Articles/Deduplication/simhash/292_the_bigscience_roots_corpus_a_.pdf",
@@ -193,7 +202,6 @@
     "Web Server & File Server/NFS Use Case.md",
     "Papers & Articles/LLM/images/slimpajama_pipeline.png",
     "Papers & Articles/LLM/images/dataset_proportions.png",
-    "Deep Learning/_images/Pasted image 20240531134155.png",
-    "Deep Learning/_images/Pasted image 20240531133821.png"
+    "Deep Learning/_images/Pasted image 20240531134155.png"
   ]
 }
