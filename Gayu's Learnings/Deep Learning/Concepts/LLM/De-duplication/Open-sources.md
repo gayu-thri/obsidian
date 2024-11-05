@@ -1,3 +1,5 @@
+### BigScience ROOTS
+- 1.6 TB dataset - 59 languages
 ### SlimPajama
 - De-duplication Type = Global de-duplication (within and between each data source)
 - Algorithm used = MinHashLSH
