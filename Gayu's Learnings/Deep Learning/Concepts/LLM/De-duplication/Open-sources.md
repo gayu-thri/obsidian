@@ -1,8 +1,35 @@
 ### BigScience ROOTS
-- 1.6 TB dataset - 59 languages
+- 1.6 TB dataset - 59 languages, 46 natural languages & 13 coding languages
+- Algorithm used = ==SimHash== & ==Substring de-duplication based on suffix array==
+- Corpus
+	- (i) 62% - community-selected
+	- (ii) 38% -  preprocessed web crawl OSCAR
+- De-duplicating Sources
+	- 1) Dataset overlap - Just by looking
+	- 2) Cross-pipeline dataset de-duplication - Remove pseudo-crawled Wiki and GitHub
+	- 3) Remove if not fully in natural language (HTML tags, SEO, etc)
+	- Remove menus and pages with
+		- High incidence of character n-gram repetition
+		- Low language identification confidence
+		- Low proportion of closed class words
+		- <2MB domains were removed
+- De-duplication
+	- Initially used SimHash - To remove near duplicate docs in OSCAR
+		- 2 similar texts hashes
+			- Low Hamming distance threshold of 4
+			- 6-grams
+		- 0.7% ~2.7% - near duplicates
+	- NOTE: SimHash - bag-of-words algorithm - long docs more likely to be similar
+	- Found
+		- False positives among long docs - Retain documents in same cluster of near-duplicates if >6000 characters
+	- Complementary method
+		- ==Substring de-duplication based on suffix array== used
+		- For the above >6000 characters case
+
+---
 ### SlimPajama
 - De-duplication Type = Global de-duplication (within and between each data source)
-- Algorithm used = MinHashLSH
+- Algorithm used = ==MinHashLSH==
 - Algorithm briefing
 	- Jaccard similarity threshold = 0.8
 	- Document signatures constructed with pre-processed lowercase 13-grams

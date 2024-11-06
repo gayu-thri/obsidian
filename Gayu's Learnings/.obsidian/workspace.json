@@ -8,17 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "695500d21cb930f9",
+            "id": "48fb091d517c5ea2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Deep Learning/Concepts/LLM/De-duplication/images/Pasted image 20241101075020.png"
-              }
+                "file": "Deep Learning/Concepts/LLM/De-duplication/Open-sources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Open-sources"
             }
           },
           {
-            "id": "48fb091d517c5ea2",
+            "id": "3a5eaefd846a26ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -26,11 +30,12 @@
                 "file": "Deep Learning/Concepts/LLM/De-duplication/SimHash.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "SimHash"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -50,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -65,7 +72,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -73,15 +82,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 282.5026054382324,
-    "collapsed": true
+    "width": 282.5026054382324
   },
   "right": {
     "id": "3cddeeb6fbef4330",
@@ -97,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep Learning/Concepts/LLM/De-duplication/SimHash.md",
+                "file": "Deep Learning/Concepts/LLM/De-duplication/Open-sources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +115,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Open-sources"
             }
           },
           {
@@ -114,10 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep Learning/Concepts/LLM/De-duplication/SimHash.md",
+                "file": "Deep Learning/Concepts/LLM/De-duplication/Open-sources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Open-sources"
             }
           },
           {
@@ -128,7 +142,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -137,8 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep Learning/Concepts/LLM/De-duplication/SimHash.md"
-              }
+                "file": "Deep Learning/Concepts/LLM/De-duplication/Open-sources.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Open-sources"
             }
           }
         ]
@@ -160,8 +178,8 @@
   },
   "active": "48fb091d517c5ea2",
   "lastOpenFiles": [
-    "Deep Learning/Concepts/LLM/De-duplication/Open-sources.md",
     "Deep Learning/Concepts/LLM/De-duplication/SimHash.md",
+    "Deep Learning/Concepts/LLM/De-duplication/Open-sources.md",
     "Deep Learning/Concepts/LLM/De-duplication/images/Pasted image 20241101075245.png",
     "Deep Learning/Concepts/LLM/De-duplication/images/Pasted image 20241101075020.png",
     "Deep Learning/Concepts/LLM/De-duplication/MinHash.md",
