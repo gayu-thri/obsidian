@@ -51,6 +51,15 @@
 	- Default data mix: 70% weight
 	- NOTE: Evaluate new data source >>> efficient than performing scaling law experiments for every small dataset.
 
+> During pre-training on the final 40M tokens, we linearly annealed the learning rate to 0, maintaining a context length of 128K tokens. During this annealing phase, we also adjusted the data mix to upsample data sources of very high quality
+
+>In the final stages of pre-training, we train on long sequences to support context windows of up to 128K tokens. We do not train on long sequences earlier because the compute in self-attention layers grows quadratically in the sequence length.
+
+>We increase the supported context length in increments, pre-training until the model has
+successfully adapted to the increased context length. We assess successful adaptation by measuring whether (1)model performance on short-context evaluations has recovered completely and (2) the model perfectly solves “needle in a haystack” tasks up to that length.
+
+
+---
 #### MODEL ARCHITECTURE
 - Dense ==Transformer== architecture
 - Performance gains <- Primarily driven by improvements in **data quality & diversity**
@@ -67,5 +76,21 @@
 	- **==Activation function = SwiGLU==**
 	- **==Positional Embeddings = RoPE==**
 		- Base frequency = 5,00,000
-		- *To support longer contexts*
-	- 
+		- *To support longer contexts* (up to 32k)
+	- 8B model
+		- Layers = 32
+		- Model dimension = 4,096
+		- FFN dimension = 14,336
+		- Attention heads = 32
+		- Key/Value heads = 8
+		- Peak Learning rate = 3 x 10^-4
+
+---
+
+##### POST-TRAINING
+- SFT -> DPO
+- Reward model and an LM
+- Reward model
+	- On top of pre-trained checkpoint 
+	- Human-annotated preference data
+- 
