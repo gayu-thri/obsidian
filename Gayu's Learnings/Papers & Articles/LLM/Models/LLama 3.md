@@ -33,4 +33,39 @@
 	- (2) Continued pre-training
 		- Increase context window to 128k tokens
 	- (3) Post training
-		- 
+		- Align model with ==HUMAN FEEDBACK==
+		- SFT on instruction tuning data
+		- Direct Preference Optimisation
+		- ==TOOL-USE== - improves coding & reasoning
+
+##### PRE-TRAINING
+- Curation & Filtering of dataset
+	- De-duplication (URL-level, document-level, line-level)
+- Model architecture & scaling laws
+- Efficient pre-training techniques at large scale
+- Development of recipe
+
+- Annealing data training
+	- LR of 50% trained Llama 3 8B model -> 0 (on 4B tokens)
+	- New data: 30% weight
+	- Default data mix: 70% weight
+	- NOTE: Evaluate new data source >>> efficient than performing scaling law experiments for every small dataset.
+
+#### MODEL ARCHITECTURE
+- Dense ==Transformer== architecture
+- Performance gains <- Primarily driven by improvements in **data quality & diversity**
+- Modifications compared to Llama 2:
+	- ==**Grouped Query Attention (GQA)**== 
+		- 8 key-value heads
+		- Inference speed up
+		- Reduce key-value cache size during decoding
+	- Attention mask - prevent self-attention between different documents within the same sequence
+		- Important in continued pre-training on very long sequences
+	- ==**Vocabulary = 128k tokens**==
+		- 100k from tiktoken tokenizer
+		- 28k extra to better support non-English
+	- **==Activation function = SwiGLU==**
+	- **==Positional Embeddings = RoPE==**
+		- Base frequency = 5,00,000
+		- *To support longer contexts*
+	- 
