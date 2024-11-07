@@ -1,4 +1,7 @@
 ### BigScience ROOTS
+- Code
+	- https://github.com/bigscience-workshop/data-preparation/tree/main/preprocessing/training/01b_oscar_cleaning_and_filtering/deduplicate
+	- https://github.com/ChenghaoMou/simhash (C++ if data doesn't fit in memory)
 - 1.6 TB dataset - 59 languages, 46 natural languages & 13 coding languages
 - Algorithm used = ==SimHash== & ==Substring de-duplication based on suffix array==
 - Corpus

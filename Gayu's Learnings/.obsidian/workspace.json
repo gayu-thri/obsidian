@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/Concepts/LLM/De-duplication/Open-sources.md",
+                "file": "Papers & Articles/LLM/Models/LLama 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Open-sources"
+              "title": "LLama 3"
             }
           },
           {
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/Concepts/LLM/De-duplication/SimHash.md",
+                "file": "Deep Learning/Concepts/De-duplication/SimHash.md",
                 "mode": "source",
                 "source": false
               },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep Learning/Concepts/LLM/De-duplication/Open-sources.md",
+                "file": "Papers & Articles/LLM/Models/LLama 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Open-sources"
+              "title": "Backlinks for LLama 3"
             }
           },
           {
@@ -126,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep Learning/Concepts/LLM/De-duplication/Open-sources.md",
+                "file": "Papers & Articles/LLM/Models/LLama 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Open-sources"
+              "title": "Outgoing links from LLama 3"
             }
           },
           {
@@ -153,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep Learning/Concepts/LLM/De-duplication/Open-sources.md"
+                "file": "Papers & Articles/LLM/Models/LLama 3.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Open-sources"
+              "title": "Outline of LLama 3"
             }
           }
         ]
@@ -178,18 +178,24 @@
   },
   "active": "48fb091d517c5ea2",
   "lastOpenFiles": [
-    "Deep Learning/Concepts/LLM/De-duplication/SimHash.md",
-    "Deep Learning/Concepts/LLM/De-duplication/Open-sources.md",
-    "Deep Learning/Concepts/LLM/De-duplication/images/Pasted image 20241101075245.png",
-    "Deep Learning/Concepts/LLM/De-duplication/images/Pasted image 20241101075020.png",
-    "Deep Learning/Concepts/LLM/De-duplication/MinHash.md",
-    "Deep Learning/Concepts/LLM/De-duplication/images",
-    "Deep Learning/Concepts/LLM/De-duplication/images/Pasted image 20241101073030.png",
-    "Deep Learning/Concepts/LLM/De-duplication/De-duplication.md",
+    "Papers & Articles/LLM/Datasets/DataComp-LM Paper.md",
+    "Papers & Articles/LLM/Models/LLama 3.md",
+    "Papers & Articles/LLM/Models",
+    "Papers & Articles/LLM/Datasets/SlimPajama.md",
+    "Papers & Articles/LLM/Datasets/DataComp-LM Codebase.md",
+    "Papers & Articles/LLM/Datasets/SlimPajama Codebase.md",
+    "Deep Learning/Concepts/De-duplication/Open-sources.md",
+    "Deep Learning/Concepts/De-duplication/SimHash.md",
+    "Deep Learning/Concepts/De-duplication/images/Pasted image 20241101075245.png",
+    "Deep Learning/Concepts/De-duplication/images/Pasted image 20241101075020.png",
+    "Deep Learning/Concepts/De-duplication/MinHash.md",
+    "Deep Learning/Concepts/De-duplication/images",
+    "Deep Learning/Concepts/De-duplication/images/Pasted image 20241101073030.png",
+    "Deep Learning/Concepts/De-duplication/De-duplication.md",
     "Papers & Articles/Deduplication/minhash/c4.pdf",
     "Papers & Articles/Deduplication/simhash/292_the_bigscience_roots_corpus_a_.pdf",
     "Papers & Articles/LLM/Datasets/CCI3.0-HQ Dataset.md",
-    "Papers & Articles/LLM/Auto-Pure-Data.md",
+    "Papers & Articles/LLM/Datasets/Auto-Pure-Data.md",
     "Untitled.canvas",
     "Papers & Articles/LLM/Datasets",
     "Papers & Articles/Deduplication/minhash/The Pile: An 800GB Dataset of Diverse Text for Language Modeling.pdf",
@@ -197,7 +203,6 @@
     "Papers & Articles/Deduplication/minhash/Deduplicating Training Data Makes Language Models Better.pdf",
     "Papers & Articles/Deduplication/minhash/2107.06499v2.pdf",
     "Papers & Articles/Deduplication/minhash/2107.06499v2.pdf.crdownload",
-    "Papers & Articles/Deduplication/minhash",
     "Deep Learning/Concepts/_images/Pasted image 20240624124857.png",
     "General/Go To Env Creation.md",
     "Bookmarks/ASR Bookmarks.md",
@@ -211,17 +216,12 @@
     "Todo/Papers To Read.md",
     "Todo/Learnings Todo.md",
     "Deep Learning/Concepts/CUDA/CUDA Home.md",
-    "Papers & Articles/LLM/DataComp-LM Codebase.md",
-    "Papers & Articles/LLM/DataComp-LM Paper.md",
     "Papers & Articles/LLM/images/Pasted image 20240624123245.png",
-    "Papers & Articles/LLM/SlimPajama Codebase.md",
     "Papers & Articles/LLM/images/Pasted image 20240621143449.png",
     "Papers & Articles/LLM/images/Pasted image 20240620125056.png",
-    "Papers & Articles/LLM/SlimPajama.md",
     "Web Server & File Server/NFS.md",
     "Web Server & File Server/Different approaches/Linux Applications Performance.md",
     "Deep Learning/Toolkits/Fairseq/Fairseq.md",
-    "Web Server & File Server/NFS Use Case.md",
     "Papers & Articles/LLM/images/slimpajama_pipeline.png",
     "Papers & Articles/LLM/images/dataset_proportions.png",
     "Deep Learning/_images/Pasted image 20240531134155.png"
