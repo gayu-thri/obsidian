@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM Training/LLM Architectures.md",
+                "file": "LLM Training/Models/LLama/MMLU Code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LLM Architectures"
+              "title": "MMLU Code"
             }
           }
         ],
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM Training/LLM Architectures.md",
+                "file": "LLM Training/Models/LLama/MMLU Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for LLM Architectures"
+              "title": "Backlinks for MMLU Code"
             }
           },
           {
@@ -141,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM Training/LLM Architectures.md",
+                "file": "LLM Training/Models/LLama/MMLU Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from LLM Architectures"
+              "title": "Outgoing links from MMLU Code"
             }
           },
           {
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM Training/LLM Architectures.md"
+                "file": "LLM Training/Models/LLama/MMLU Code.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of LLM Architectures"
+              "title": "Outline of MMLU Code"
             }
           }
         ]
@@ -191,11 +191,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aac7ba3904e0fec8",
+  "active": "c4b867163f4c7751",
   "lastOpenFiles": [
-    "LLM Training/_images/Pasted image 20241108123402.png",
+    "Todo/Work Todo.md",
+    "LLM Training/Models/LLama/MMLU Code.md",
+    "Todo/Learnings Todo.md",
+    "LLM Training/Models/LLama/MMLU Analysis.md",
     "LLM Training/Papers/LLama 3.md",
+    "LLM Training/Models",
+    "LLM Training/Models/LLama",
     "LLM Training/LLM Architectures.md",
+    "LLM Training/_images/Pasted image 20241108123402.png",
     "LLM Training/_images/Pasted image 20241108122001.png",
     "LLM Training/_images/Pasted image 20241108101823.png",
     "Pasted image 20241108101818.png",
@@ -227,18 +233,12 @@
     "Deep Learning/Concepts/LLM/Summarization.md",
     "Deep Learning/Concepts/LLM/LLM Home.md",
     "LLM Training/LLM Overview.md",
-    "Deep Learning/Models/Transformers.md",
     "LLM Training",
-    "Todo/Learnings Todo.md",
-    "Deep Learning/Concepts/De-duplication/SimHash.md",
-    "Coding",
     "Untitled.canvas",
-    "Papers & Articles/LLM/Models",
     "Deep Learning/Concepts/De-duplication/images/Pasted image 20241101075245.png",
     "Deep Learning/Concepts/De-duplication/images/Pasted image 20241101075020.png",
     "Deep Learning/Concepts/De-duplication/images/Pasted image 20241101073030.png",
     "Deep Learning/Concepts/_images/Pasted image 20240624124857.png",
-    "Papers & Articles/LLM/_images/Pasted image 20240624123245.png",
-    "Papers & Articles/LLM/_images/Pasted image 20240621143449.png"
+    "Papers & Articles/LLM/_images/Pasted image 20240624123245.png"
   ]
 }
