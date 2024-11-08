@@ -1,6 +1,6 @@
 ### Models
 - Transformers
-	- [[LLM]]
+	- [[Deep Learning/Models/LLM Overview]]
 	- [[Causal LM]]
 	- [[Masked LM]]
 ### Concepts

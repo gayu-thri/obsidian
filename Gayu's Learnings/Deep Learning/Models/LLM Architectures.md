@@ -1,0 +1,5 @@
+- 4 types
+	- Encoder-decoder
+	- Encoder-only
+	- Decoder-only
+	- Mixture of experts (MoE)

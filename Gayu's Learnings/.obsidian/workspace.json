@@ -8,34 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "48fb091d517c5ea2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers & Articles/LLM/Models/LLama 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LLama 3"
-            }
-          },
-          {
             "id": "3a5eaefd846a26ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/Concepts/De-duplication/SimHash.md",
+                "file": "LLM Training/Toolkits/Fairseq/Fairseq + Multi-Node Training.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SimHash"
+              "title": "Fairseq + Multi-Node Training"
+            }
+          },
+          {
+            "id": "160a8d5897ca937f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM Training/Toolkits/Fairseq/Fairseq + Multi-Node Training.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fairseq + Multi-Node Training"
+            }
+          },
+          {
+            "id": "c4b867163f4c7751",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM Training/LLM Architectures.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LLM Architectures"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5026054382324
+    "width": 458.5026054382324
   },
   "right": {
     "id": "3cddeeb6fbef4330",
@@ -107,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers & Articles/LLM/Models/LLama 3.md",
+                "file": "LLM Training/LLM Architectures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for LLama 3"
+              "title": "Backlinks for LLM Architectures"
             }
           },
           {
@@ -126,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers & Articles/LLM/Models/LLama 3.md",
+                "file": "LLM Training/LLM Architectures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from LLama 3"
+              "title": "Outgoing links from LLM Architectures"
             }
           },
           {
@@ -153,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers & Articles/LLM/Models/LLama 3.md"
+                "file": "LLM Training/LLM Architectures.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of LLama 3"
+              "title": "Outline of LLM Architectures"
             }
           }
         ]
@@ -176,54 +191,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48fb091d517c5ea2",
+  "active": "aac7ba3904e0fec8",
   "lastOpenFiles": [
-    "Personal/Todo/June 4 2024.md",
-    "Deep Learning/Toolkits/Slurm.md",
-    "Untitled.canvas",
-    "Deep Learning/Toolkits/Fairseq/Fairseq Example.md",
-    "Deep Learning/Toolkits/Fairseq/Fairseq + Multi-Node Training.md",
+    "LLM Training/_images/Pasted image 20241108101823.png",
+    "Pasted image 20241108101818.png",
+    "LLM Training/LLM Architectures.md",
+    "LLM Training/_images",
+    "LLM Training/_images/Pasted image 20241108100833.png",
+    "LLM Training/Toolkits/Fairseq/Fairseq.md",
+    "LLM Training/Toolkits/Fairseq/Fairseq Example.md",
+    "LLM Training/Toolkits/Fairseq/Fairseq + Multi-Node Training.md",
+    "LLM Training/Toolkits/Slurm.md",
+    "LLM Training/Concepts/DPO.md",
+    "LLM Training/Coding/Causal Model.md",
+    "LLM Training/Coding",
+    "Coding/Causal model.md",
+    "LLM Training/Toolkits/Fairseq",
+    "LLM Training/Concepts",
+    "LLM Training/Toolkits",
     "Deep Learning/Toolkits/Fairseq/Fairseq.md",
-    "Deep Learning/Deep Learning Home.md",
+    "Deep Learning/Toolkits/Fairseq/Fairseq + Multi-Node Training.md",
+    "Deep Learning/Toolkits/Fairseq/Fairseq Example.md",
+    "Deep Learning/Toolkits/Slurm.md",
+    "Deep Learning/Models/LLM Overview.md",
+    "Deep Learning/Models/LLM Architectures.md",
+    "Deep Learning/Models/Causal LM.md",
+    "LLM Training/Papers/LLama 3.md",
+    "LLM Training/Papers",
     "Papers & Articles/LLM/Models/LLama 3.md",
-    "Deep Learning/Models/LLM.md",
-    "Papers & Articles/LLM/Datasets/DataComp-LM Paper.md",
-    "Papers & Articles/LLM/Models",
-    "Papers & Articles/LLM/Datasets/SlimPajama.md",
-    "Papers & Articles/LLM/Datasets/DataComp-LM Codebase.md",
-    "Papers & Articles/LLM/Datasets/SlimPajama Codebase.md",
-    "Deep Learning/Concepts/De-duplication/Open-sources.md",
+    "Deep Learning/Concepts/LLM/DPO.md",
+    "LLM/Untitled",
+    "Deep Learning/Concepts/LLM/Retrieval Augmented Generation (RAG).md",
+    "Deep Learning/Concepts/LLM/Summarization.md",
+    "Deep Learning/Concepts/LLM/LLM Home.md",
+    "LLM Training/LLM Overview.md",
+    "Deep Learning/Models/Transformers.md",
+    "LLM Training",
+    "Todo/Learnings Todo.md",
     "Deep Learning/Concepts/De-duplication/SimHash.md",
+    "Coding",
+    "Untitled.canvas",
+    "Papers & Articles/LLM/Models",
     "Deep Learning/Concepts/De-duplication/images/Pasted image 20241101075245.png",
     "Deep Learning/Concepts/De-duplication/images/Pasted image 20241101075020.png",
-    "Deep Learning/Concepts/De-duplication/MinHash.md",
-    "Deep Learning/Concepts/De-duplication/images",
     "Deep Learning/Concepts/De-duplication/images/Pasted image 20241101073030.png",
-    "Deep Learning/Concepts/De-duplication/De-duplication.md",
-    "Papers & Articles/Deduplication/minhash/c4.pdf",
-    "Papers & Articles/Deduplication/simhash/292_the_bigscience_roots_corpus_a_.pdf",
-    "Papers & Articles/LLM/Datasets/CCI3.0-HQ Dataset.md",
-    "Papers & Articles/LLM/Datasets/Auto-Pure-Data.md",
-    "Papers & Articles/LLM/Datasets",
-    "Papers & Articles/Deduplication/minhash/The Pile: An 800GB Dataset of Diverse Text for Language Modeling.pdf",
-    "Papers & Articles/Deduplication/minhash/The Pile: An 800GB Dataset of Diverse Text for Language Modeling.pdf.crdownload",
-    "Papers & Articles/Deduplication/minhash/Deduplicating Training Data Makes Language Models Better.pdf",
-    "Papers & Articles/Deduplication/minhash/2107.06499v2.pdf",
-    "Papers & Articles/Deduplication/minhash/2107.06499v2.pdf.crdownload",
     "Deep Learning/Concepts/_images/Pasted image 20240624124857.png",
-    "General/Go To Env Creation.md",
-    "Bookmarks/ASR Bookmarks.md",
-    "My Home.md",
-    "Bookmarks/LLM Bookmarks.md",
-    "Bookmarks/Deep Learning Bookmarks.md",
-    "Bookmarks/General Bookmarks.md",
-    "Todo/Papers To Read.md",
-    "Todo/Learnings Todo.md",
-    "Papers & Articles/LLM/images/Pasted image 20240624123245.png",
-    "Papers & Articles/LLM/images/Pasted image 20240621143449.png",
-    "Papers & Articles/LLM/images/Pasted image 20240620125056.png",
-    "Papers & Articles/LLM/images/slimpajama_pipeline.png",
-    "Papers & Articles/LLM/images/dataset_proportions.png",
-    "Deep Learning/_images/Pasted image 20240531134155.png"
+    "Papers & Articles/LLM/_images/Pasted image 20240624123245.png",
+    "Papers & Articles/LLM/_images/Pasted image 20240621143449.png",
+    "Papers & Articles/LLM/_images/Pasted image 20240620125056.png"
   ]
 }

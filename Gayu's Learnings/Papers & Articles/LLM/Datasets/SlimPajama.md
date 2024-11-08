@@ -50,7 +50,7 @@
 
 ### SlimPajama Dataset Details
 
-![Data source proportions for various datasets](images/dataset_proportions.png)
+![Data source proportions for various datasets](dataset_proportions.png)
 
 - Dataset Token Frequencies
 	- Different datasets often highlight varied types of tokens
@@ -61,7 +61,7 @@
 ### Overview of Pipeline
 
 - SlimPajama Preprocessing pipeline
-	- ![](images/slimpajama_pipeline.png)
+	- ![](slimpajama_pipeline.png)
 
 1. Low-length document filtering
 	- Percentage of doc low-length filter rate: 1.86%
