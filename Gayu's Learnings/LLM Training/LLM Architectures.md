@@ -1,4 +1,5 @@
 https://whylabs.ai/learning-center/introduction-to-llms/understanding-large-language-model-architectures
+https://huggingface.co/blog/moe?ref=content.whylabs.ai
 
 - 4 types
 	- Encoder-decoder
@@ -60,3 +61,39 @@ https://whylabs.ai/learning-center/introduction-to-llms/understanding-large-lang
 *====================
 #### DECODER-ONLY
 ====================
+
+---
+*====================
+#### MoE
+====================
+- Adopted by models like Mistral 8x7B
+- Diverges from traditional Transformer models
+- Single monolithic language model -> smaller, specialized sub-models
+- ==*REPLACES **DENSE FFN LAYER -> SPARSE SWITCH FFN LAYER (MoE)***==
+- ![[Pasted image 20241108122001.png]]
+- https://huggingface.co/blog/moe?ref=content.whylabs.ai
+- Pros & Cons
+	- Pros
+		- ==Compute-efficient pre-training==
+		- Only some parameters are used during inference -> ==*FASTER INFERENCE*==
+	- Cons
+		- Hard to generalize during fine-tuning -> ==*Overfitting*==
+		- All parameters loaded in RAM -> ==*Higher memory requirements*==
+		- Mixtral 8 x 7 B
+			- VRAM should hold dense 47B parameters
+			- Why not 56B?
+			- in MoE models -> FFN layers are individual experts
+- MoE has 2 main elements:
+	- **SPARSE MoE LAYERS**
+		- Instead of dense FFN layers
+		- Certain number of experts, ex: 8 
+		- Expert = NN / FFN / Complex networks / MoE itself
+	- **GATE NETWORK (OR) ROUTER**
+		- Decides which tokens sent to which expert
+		- ![[Pasted image 20241108123402.png]]
+		- In example,
+			- "more" -> 2nd expert
+			- "parameters" -> 1st network
+		- 1 token -> Many experts (*possible*)
+		- How to route?? 
+			- -> Router - learned parameters; pretrained at same time as rest of network

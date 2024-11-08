@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 458.5026054382324
+    "width": 244.50260543823242
   },
   "right": {
     "id": "3cddeeb6fbef4330",
@@ -191,11 +191,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aac7ba3904e0fec8",
+  "active": "c4b867163f4c7751",
   "lastOpenFiles": [
+    "Pasted image 20241108123402.png",
+    "LLM Training/Papers/LLama 3.md",
+    "LLM Training/LLM Architectures.md",
+    "LLM Training/_images/Pasted image 20241108122001.png",
     "LLM Training/_images/Pasted image 20241108101823.png",
     "Pasted image 20241108101818.png",
-    "LLM Training/LLM Architectures.md",
     "LLM Training/_images",
     "LLM Training/_images/Pasted image 20241108100833.png",
     "LLM Training/Toolkits/Fairseq/Fairseq.md",
@@ -216,7 +219,6 @@
     "Deep Learning/Models/LLM Overview.md",
     "Deep Learning/Models/LLM Architectures.md",
     "Deep Learning/Models/Causal LM.md",
-    "LLM Training/Papers/LLama 3.md",
     "LLM Training/Papers",
     "Papers & Articles/LLM/Models/LLama 3.md",
     "Deep Learning/Concepts/LLM/DPO.md",
@@ -237,7 +239,6 @@
     "Deep Learning/Concepts/De-duplication/images/Pasted image 20241101073030.png",
     "Deep Learning/Concepts/_images/Pasted image 20240624124857.png",
     "Papers & Articles/LLM/_images/Pasted image 20240624123245.png",
-    "Papers & Articles/LLM/_images/Pasted image 20240621143449.png",
-    "Papers & Articles/LLM/_images/Pasted image 20240620125056.png"
+    "Papers & Articles/LLM/_images/Pasted image 20240621143449.png"
   ]
 }

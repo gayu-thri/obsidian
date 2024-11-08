@@ -13,13 +13,12 @@
 	- (1) Data
 	- (2) Scale
 	- (3) Managing Complexity
-
 - Pre-training data: Careful pre-processing & curation pipelines
 - Post-training data: Filtering approaches & quality assurance
 
 - Architecture
 	- Maximise ability to SCALE MODEL DEV PROCESS
-	- Ex: Standard dense transformer model architecture with minor adaptions **RATHER THAN MoE model** - *To maximise training stability*
+	- Ex: ==Standard dense transformer model architecture with minor adaptions **RATHER THAN MoE model**== - *To maximise training stability*
 - Training
 	- Relatively simple post-training procedure
 		- SFT, Rejection sampling, Direct preference optimisation (DPO) RATHER THAN complex reinforcement learning algorithms (*less stable; hard to scale*)
