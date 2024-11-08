@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM Training/Models/LLama/MMLU Code.md",
+                "file": "LLM Training/MMLU/MMLU Code for LLama 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MMLU Code"
+              "title": "MMLU Code for LLama 3"
             }
           }
         ],
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM Training/Models/LLama/MMLU Code.md",
+                "file": "LLM Training/MMLU/MMLU Code for LLama 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MMLU Code"
+              "title": "Backlinks for MMLU Code for LLama 3"
             }
           },
           {
@@ -141,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM Training/Models/LLama/MMLU Code.md",
+                "file": "LLM Training/MMLU/MMLU Code for LLama 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from MMLU Code"
+              "title": "Outgoing links from MMLU Code for LLama 3"
             }
           },
           {
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM Training/Models/LLama/MMLU Code.md"
+                "file": "LLM Training/MMLU/MMLU Code for LLama 3.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of MMLU Code"
+              "title": "Outline of MMLU Code for LLama 3"
             }
           }
         ]
@@ -193,10 +193,11 @@
   },
   "active": "c4b867163f4c7751",
   "lastOpenFiles": [
+    "LLM Training/MMLU/MMLU Analysis On LLama 3.md",
+    "LLM Training/MMLU/MMLU Code for LLama 3.md",
+    "LLM Training/MMLU",
     "Todo/Work Todo.md",
-    "LLM Training/Models/LLama/MMLU Code.md",
     "Todo/Learnings Todo.md",
-    "LLM Training/Models/LLama/MMLU Analysis.md",
     "LLM Training/Papers/LLama 3.md",
     "LLM Training/Models",
     "LLM Training/Models/LLama",
@@ -232,8 +233,6 @@
     "Deep Learning/Concepts/LLM/Retrieval Augmented Generation (RAG).md",
     "Deep Learning/Concepts/LLM/Summarization.md",
     "Deep Learning/Concepts/LLM/LLM Home.md",
-    "LLM Training/LLM Overview.md",
-    "LLM Training",
     "Untitled.canvas",
     "Deep Learning/Concepts/De-duplication/images/Pasted image 20241101075245.png",
     "Deep Learning/Concepts/De-duplication/images/Pasted image 20241101075020.png",
