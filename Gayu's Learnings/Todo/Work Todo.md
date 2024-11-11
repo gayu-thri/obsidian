@@ -9,6 +9,10 @@ MMLU Analysis:
 >Yes, you can even download the code repo or model creation method of MMLU to see how it works if there are no resources. But need to find out how MMLU scores are impacted by a model.
 
 ---
+**Nov 11, 2024**
+- Go through this line by line  [https://github.com/hendrycks/test/pull/13](https://github.com/hendrycks/test/pull/13)
+
+---
 
 Training overview:
 - Llama 3 paper for overview
