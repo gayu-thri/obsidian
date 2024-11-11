@@ -1,3 +1,13 @@
+-> **MMLU GitHub Pull request code**: https://github.com/hendrycks/test/blob/461a38863ce51d29f657a92c6b90be501be53fc5/evaluate_hf.py | https://github.com/hendrycks/test/pull/13
+ - load models as Float16;
+- put the samples on the same device as a model;
+- use the last token of option tokenization instead of the first one;
+- save the aggregated results to a JSON file.
+
+-> **DeepEval code**: https://docs.confident-ai.com/docs/benchmarks-introduction#benchmarking-your-llm
+-> **OpenNMT code**: https://github.com/OpenNMT/OpenNMT-py/blob/master/eval_llm/MMLU/run_mmlu_opennmt.py
+
+-> **HuggingFace code**:
 ```python
 # pip install torch transformers datasets
 from datasets import load_dataset

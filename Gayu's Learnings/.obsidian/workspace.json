@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50260543823242
+    "width": 244.50260543823242,
+    "collapsed": true
   },
   "right": {
     "id": "3cddeeb6fbef4330",
@@ -193,9 +194,11 @@
   },
   "active": "c4b867163f4c7751",
   "lastOpenFiles": [
-    "LLM Training/MMLU/MMLU Analysis On LLama 3.md",
+    "LLM Training/MMLU/MMLU.md",
+    "LLM Training/_images/Pasted image 20241111172632.png",
     "Todo/Work Todo.md",
     "LLM Training/MMLU/MMLU Code for LLama 3.md",
+    "LLM Training/MMLU/MMLU Analysis On LLama 3.md",
     "LLM Training/MMLU",
     "Todo/Learnings Todo.md",
     "LLM Training/Papers/LLama 3.md",
@@ -232,12 +235,10 @@
     "LLM/Untitled",
     "Deep Learning/Concepts/LLM/Retrieval Augmented Generation (RAG).md",
     "Deep Learning/Concepts/LLM/Summarization.md",
-    "Deep Learning/Concepts/LLM/LLM Home.md",
     "Untitled.canvas",
     "Deep Learning/Concepts/De-duplication/images/Pasted image 20241101075245.png",
     "Deep Learning/Concepts/De-duplication/images/Pasted image 20241101075020.png",
     "Deep Learning/Concepts/De-duplication/images/Pasted image 20241101073030.png",
-    "Deep Learning/Concepts/_images/Pasted image 20240624124857.png",
-    "Papers & Articles/LLM/_images/Pasted image 20240624123245.png"
+    "Deep Learning/Concepts/_images/Pasted image 20240624124857.png"
   ]
 }
