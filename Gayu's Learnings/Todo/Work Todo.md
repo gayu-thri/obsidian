@@ -6,6 +6,8 @@ MMLU Analysis:
 - How the score MMLU is impacted by different datacut??
 - What is the reason for MMLU score variations among different LLAMA versions??
 
+>Yes, you can even download the code repo or model creation method of MMLU to see how it works if there are no resources. But need to find out how MMLU scores are impacted by a model.
+
 ---
 
 Training overview:

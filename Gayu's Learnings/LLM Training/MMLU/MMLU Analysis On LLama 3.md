@@ -24,4 +24,8 @@
 - Paper provide ==**only aggregate MMLU scores**==
 	- No exact scores for each subtask
 - ***==3.2 not mentioned*** in paper anywhere==
-- 
+- Llama versions & sizes
+	- https://github.com/meta-llama/llama-models/tree/main
+	- Llama 3: 8B, 70B (https://ai.meta.com/blog/meta-llama-3/)
+	- Llama 3.1: 8B, 70B, 405B (https://ai.meta.com/blog/meta-llama-3-1/)
+	- Llama 3.2: 1B, 3B, 11B, 90B (https://www.llama.com/)
