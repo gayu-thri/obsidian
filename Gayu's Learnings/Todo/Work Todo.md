@@ -11,7 +11,14 @@ MMLU Analysis:
 ---
 **Nov 11, 2024**
 - Go through this line by line  [https://github.com/hendrycks/test/pull/13](https://github.com/hendrycks/test/pull/13)
-
+**Nov 12, 2024**
+- MMLU Analysis
+	- Reason for scores variations
+	- If data in benchmark and training overlaps??
+	- How are they evaluating??
+- Half day to check if this can be adapted
+	- https://docs.dask.org/en/stable/gpu.html
+	- https://www.zyphra.com/post/building-zyda-2
 ---
 
 Training overview:

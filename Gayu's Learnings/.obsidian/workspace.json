@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/Work Todo.md",
+                "file": "LLM Training/MMLU/MMLU Code for LLama 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Work Todo"
+              "title": "MMLU Code for LLama 3"
             }
           }
         ],
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/Work Todo.md",
+                "file": "LLM Training/MMLU/MMLU Code for LLama 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Work Todo"
+              "title": "Backlinks for MMLU Code for LLama 3"
             }
           },
           {
@@ -141,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/Work Todo.md",
+                "file": "LLM Training/MMLU/MMLU Code for LLama 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Work Todo"
+              "title": "Outgoing links from MMLU Code for LLama 3"
             }
           },
           {
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/Work Todo.md"
+                "file": "LLM Training/MMLU/MMLU Code for LLama 3.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Work Todo"
+              "title": "Outline of MMLU Code for LLama 3"
             }
           }
         ]
@@ -193,11 +193,11 @@
   },
   "active": "c4b867163f4c7751",
   "lastOpenFiles": [
-    "LLM Training/MMLU/MMLU Code for LLama 3.md",
-    "LLM Training/MMLU/MMLU.md",
-    "LLM Training/_images/Pasted image 20241111172632.png",
     "Todo/Work Todo.md",
     "LLM Training/MMLU/MMLU Analysis On LLama 3.md",
+    "LLM Training/MMLU/MMLU.md",
+    "LLM Training/MMLU/MMLU Code for LLama 3.md",
+    "LLM Training/_images/Pasted image 20241111172632.png",
     "LLM Training/MMLU",
     "Todo/Learnings Todo.md",
     "LLM Training/Papers/LLama 3.md",

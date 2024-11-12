@@ -1,3 +1,4 @@
+-> **LM Evaluation Harness**: https://github.com/EleutherAI/lm-evaluation-harness/blob/main/docs/interface.md
 -> **MMLU GitHub Pull request code**: https://github.com/hendrycks/test/blob/461a38863ce51d29f657a92c6b90be501be53fc5/evaluate_hf.py | https://github.com/hendrycks/test/pull/13
  - load models as Float16;
 - put the samples on the same device as a model;
@@ -7,6 +8,39 @@
 -> **DeepEval code**: https://docs.confident-ai.com/docs/benchmarks-introduction#benchmarking-your-llm
 -> **OpenNMT code**: https://github.com/OpenNMT/OpenNMT-py/blob/master/eval_llm/MMLU/run_mmlu_opennmt.py
 
+-> **LM Evaluation Harness code:**
+```bash
+"""
+Supported model names: 
+local-completions, local-chat-completions, openai-completions, openai-chat-completions, anthropic-completions, anthropic-chat, anthropic-chat-completions, dummy, gguf, ggml, hf-auto, hf, huggingface, hf-multimodal, watsonx_llm, mamba_ssm, nemo_lm, sparseml, deepsparse, neuronx, openvino, textsynth, vllm, vllm-vlm
+"""
+lm_eval --model hf \
+    --model_args pretrained=meta-llama/Meta-Llama-3-8B-Instruct,cache_dir=/data1/gayu/hf_cache \
+    --tasks mmlu \
+    --num_fewshot 5 \
+    --batch_size 8 \
+    --device cuda:4 \
+    --log_samples \
+    --output_path results_Llama-3-8B-Instruct \
+
+lm_eval --model hf \
+    --model_args pretrained=meta-llama/Meta-Llama-3.1-8B-Instruct,cache_dir=/data1/gayu/hf_cache \
+    --tasks mmlu \
+    --num_fewshot 5 \
+    --batch_size 8 \
+    --device cuda:4 \
+    --log_samples \
+    --output_path results_Llama-3.1-8B-Instruct \
+
+lm_eval --model hf \
+    --model_args pretrained=meta-llama/Meta-Llama-3.2-11B-Vision-Instruct,cache_dir=/data1/gayu/hf_cache \
+    --tasks mmlu \
+    --num_fewshot 5 \
+    --batch_size 8 \
+    --device cuda:4 \
+    --log_samples \
+    --output_path results_Llama-3.2-11B-Vision-Instruct \
+```
 -> **HuggingFace code**:
 ```python
 # pip install torch transformers datasets
