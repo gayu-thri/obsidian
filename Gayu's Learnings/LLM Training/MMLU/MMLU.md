@@ -28,8 +28,23 @@ https://github.com/zama-ai/hf-blog/blob/zama-ai/encrypted-llm/evaluating-mmlu-le
 	- ***ETHICS*** dataset - "*moral_scenarios*"
 	- harder version of the physical commonsense benchmark ***Physical IQA*** - "*physics*"
 
+### LLAMA SOURCES
+Taken from "Data mix summary" in paper
+ - 50% general knowledge tokens
+ - 25% mathematical and reasoning tokens
+ - 17% code tokens
+ - 8% multilingual tokens
+ 
 ### GPT-3 Evaluation Insights in MMLU Paper
 - Declarative knowledge >>> Procedural knowledge
 - Knows PEMDAS, but not consistently applying
 - . GPT-3 does better on College Medicine (47.4%)
 and College Mathematics (35.0%) than calculation-heavy Elementary Mathematics (29.9%)
+
+- Models are poor 
+	- at modeling human (dis)approval
+	- Professional Law
+	- Moral Scenarios tasks
+	- Have difficulty performing calculations
+	- Elementary Mathematics
+	- other STEM subjects with “plug and chug” problems
