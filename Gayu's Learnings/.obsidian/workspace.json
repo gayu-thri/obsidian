@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM Training/MMLU/MMLU.md",
+                "file": "LLM Training/Llama versions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MMLU"
+              "title": "Llama versions"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM Training/MMLU/MMLU.md",
+                "file": "LLM Training/Llama versions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MMLU"
+              "title": "Backlinks for Llama versions"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM Training/MMLU/MMLU.md",
+                "file": "LLM Training/Llama versions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from MMLU"
+              "title": "Outgoing links from Llama versions"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM Training/MMLU/MMLU.md"
+                "file": "LLM Training/Llama versions.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of MMLU"
+              "title": "Outline of Llama versions"
             }
           }
         ]
@@ -179,8 +179,10 @@
   },
   "active": "160a8d5897ca937f",
   "lastOpenFiles": [
-    "LLM Training/MMLU/MMLU Code for LLama 3.md",
+    "General/Dask.md",
+    "LLM Training/Llama versions.md",
     "LLM Training/MMLU/MMLU.md",
+    "LLM Training/MMLU/MMLU Code for LLama 3.md",
     "LLM Training/Toolkits/Fairseq/Fairseq + Multi-Node Training.md",
     "LLM Training/Papers/LLama 3.md",
     "LLM Training/MMLU/MMLU Analysis On LLama 3.md",
@@ -219,7 +221,6 @@
     "Deep Learning/Concepts/LLM/DPO.md",
     "LLM/Untitled",
     "Deep Learning/Concepts/LLM/Retrieval Augmented Generation (RAG).md",
-    "Deep Learning/Concepts/LLM/Summarization.md",
     "Untitled.canvas",
     "Deep Learning/Concepts/De-duplication/images/Pasted image 20241101075245.png",
     "Deep Learning/Concepts/De-duplication/images/Pasted image 20241101075020.png",
