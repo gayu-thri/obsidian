@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM Training/MMLU/MMLU.md",
+                "file": "LLM Training/MMLU/Evaluation Methods/LM Evaluation Harness.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MMLU"
+              "title": "LM Evaluation Harness"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM Training/MMLU/MMLU.md",
+                "file": "LLM Training/MMLU/Evaluation Methods/LM Evaluation Harness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MMLU"
+              "title": "Backlinks for LM Evaluation Harness"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM Training/MMLU/MMLU.md",
+                "file": "LLM Training/MMLU/Evaluation Methods/LM Evaluation Harness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from MMLU"
+              "title": "Outgoing links from LM Evaluation Harness"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM Training/MMLU/MMLU.md"
+                "file": "LLM Training/MMLU/Evaluation Methods/LM Evaluation Harness.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of MMLU"
+              "title": "Outline of LM Evaluation Harness"
             }
           }
         ]
@@ -164,12 +164,13 @@
   },
   "active": "160a8d5897ca937f",
   "lastOpenFiles": [
+    "Frameworks & Tools/Dask.md",
+    "Frameworks & Tools",
+    "LLM Training/MMLU/MMLU.md",
     "LLM Training/MMLU/Evaluation Methods/LM Evaluation Harness.md",
     "LLM Training/MMLU/Evaluation Methods/Test Repo Evaluation.md",
     "LLM Training/Coding/Causal Model.md",
     "About.md",
-    "LLM Training/MMLU/MMLU.md",
-    "General/Dask.md",
     "LLM Training/MMLU/MMLU Code for LLama 3.md",
     "Todo/Work Todo.md",
     "LLM Training/MMLU/MMLU Analysis On LLama 3.md",
@@ -204,8 +205,6 @@
     "Deep Learning/Toolkits/Slurm.md",
     "Deep Learning/Models/LLM Overview.md",
     "Deep Learning/Models/LLM Architectures.md",
-    "Deep Learning/Models/Causal LM.md",
-    "LLM Training/Papers",
     "Untitled.canvas",
     "Deep Learning/Concepts/De-duplication/images/Pasted image 20241101075245.png",
     "Deep Learning/Concepts/De-duplication/images/Pasted image 20241101075020.png",
