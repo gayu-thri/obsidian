@@ -13,6 +13,10 @@ https://github.com/zama-ai/hf-blog/blob/zama-ai/encrypted-llm/evaluating-mmlu-le
 	- School subjects
 	- Wide range of difficult subjects that go far beyond linguistic understanding
 
+### METRICS USED
+**● ==loglikelihood==** - [Source](https://medium.com/disassembly/llm-evaluation-eleutherai-lm-evaluation-harness-cc379495d545)
+Loglikelihood, introduced in the MMLU for evaluating large language models (LLMs), is a ==metric used to measure the highest probability of a token in a sequence==, particularly in multi-choice tasks. Calculates the logarithm of the probability of the model generating target string within a given context, providing a quantitative measure of its accuracy.
+
 ### SOURCES
 - The questions in dataset
 	- Manually collected by graduate & undergraduate students from online
@@ -42,8 +46,8 @@ https://github.com/zama-ai/hf-blog/blob/zama-ai/encrypted-llm/evaluating-mmlu-le
 - . GPT-3 does better on College Medicine (47.4%)
 and College Mathematics (35.0%) than calculation-heavy Elementary Mathematics (29.9%)
 
-- Models are poor 
-	- at modeling human (dis)approval
+- Models are poor at following,
+	- modeling human (dis)approval
 	- Professional Law
 	- Moral Scenarios tasks
 	- Have difficulty performing calculations

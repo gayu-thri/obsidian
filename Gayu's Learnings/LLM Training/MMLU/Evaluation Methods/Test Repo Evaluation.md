@@ -1,5 +1,5 @@
-
-STEPS
+Repo Link: https://github.com/hendrycks/test
+###### STEPS
 - Load model 
 	- `AutoModelForCausalLM.from_pretrained()` & `torch_dtype=torch.float16`
 - Set model in evaluation mode by default 

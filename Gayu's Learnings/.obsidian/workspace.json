@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3a5eaefd846a26ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLM Training/Toolkits/Fairseq/Fairseq + Multi-Node Training.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fairseq + Multi-Node Training"
-            }
-          },
-          {
             "id": "160a8d5897ca937f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM Training/MMLU/Evaluation Methods/Test Repo Evaluation.md",
+                "file": "LLM Training/MMLU/MMLU.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test Repo Evaluation"
+              "title": "MMLU"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM Training/MMLU/Evaluation Methods/Test Repo Evaluation.md",
+                "file": "LLM Training/MMLU/MMLU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Test Repo Evaluation"
+              "title": "Backlinks for MMLU"
             }
           },
           {
@@ -127,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM Training/MMLU/Evaluation Methods/Test Repo Evaluation.md",
+                "file": "LLM Training/MMLU/MMLU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Test Repo Evaluation"
+              "title": "Outgoing links from MMLU"
             }
           },
           {
@@ -154,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM Training/MMLU/Evaluation Methods/Test Repo Evaluation.md"
+                "file": "LLM Training/MMLU/MMLU.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Test Repo Evaluation"
+              "title": "Outline of MMLU"
             }
           }
         ]
@@ -180,17 +165,19 @@
   "active": "160a8d5897ca937f",
   "lastOpenFiles": [
     "LLM Training/MMLU/Evaluation Methods/LM Evaluation Harness.md",
-    "LLM Training/MMLU/Evaluation Methods",
     "LLM Training/MMLU/Evaluation Methods/Test Repo Evaluation.md",
-    "LLM Training/Llama versions.md",
-    "General/Dask.md",
+    "LLM Training/Coding/Causal Model.md",
+    "About.md",
     "LLM Training/MMLU/MMLU.md",
+    "General/Dask.md",
     "LLM Training/MMLU/MMLU Code for LLama 3.md",
-    "LLM Training/Toolkits/Fairseq/Fairseq + Multi-Node Training.md",
-    "LLM Training/Papers/LLama 3.md",
-    "LLM Training/MMLU/MMLU Analysis On LLama 3.md",
     "Todo/Work Todo.md",
+    "LLM Training/MMLU/MMLU Analysis On LLama 3.md",
+    "LLM Training/Papers/LLama 3.md",
     "LLM Training/Concepts/DPO.md",
+    "LLM Training/Toolkits/Fairseq/Fairseq + Multi-Node Training.md",
+    "LLM Training/MMLU/Evaluation Methods",
+    "LLM Training/Llama versions.md",
     "LLM Training/_images/Pasted image 20241111172632.png",
     "LLM Training/MMLU",
     "Todo/Learnings Todo.md",
@@ -206,7 +193,6 @@
     "LLM Training/Toolkits/Fairseq/Fairseq.md",
     "LLM Training/Toolkits/Fairseq/Fairseq Example.md",
     "LLM Training/Toolkits/Slurm.md",
-    "LLM Training/Coding/Causal Model.md",
     "LLM Training/Coding",
     "Coding/Causal model.md",
     "LLM Training/Toolkits/Fairseq",
