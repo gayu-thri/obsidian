@@ -1,5 +1,6 @@
 https://whylabs.ai/learning-center/introduction-to-llms/understanding-large-language-model-architectures
 https://huggingface.co/blog/moe?ref=content.whylabs.ai
+https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts
 
 - 4 types
 	- Encoder-decoder
@@ -97,3 +98,4 @@ https://huggingface.co/blog/moe?ref=content.whylabs.ai
 		- 1 token -> Many experts (*possible*)
 		- How to route?? 
 			- -> Router - learned parameters; pretrained at same time as rest of network
+https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts
