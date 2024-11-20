@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ead3e9a25606e93b",
+        "id": "c15e488517692ee4",
         "type": "tabs",
         "children": [
           {
-            "id": "160a8d5897ca937f",
+            "id": "8bd85f0c343421e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM Training/MMLU/Evaluation Methods/LM Evaluation Harness.md",
+                "file": "Frameworks & Tools/Dask.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LM Evaluation Harness"
+              "title": "Dask"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM Training/MMLU/Evaluation Methods/LM Evaluation Harness.md",
+                "file": "Frameworks & Tools/Dask.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for LM Evaluation Harness"
+              "title": "Backlinks for Dask"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM Training/MMLU/Evaluation Methods/LM Evaluation Harness.md",
+                "file": "Frameworks & Tools/Dask.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from LM Evaluation Harness"
+              "title": "Outgoing links from Dask"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM Training/MMLU/Evaluation Methods/LM Evaluation Harness.md"
+                "file": "Frameworks & Tools/Dask.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of LM Evaluation Harness"
+              "title": "Outline of Dask"
             }
           }
         ]
@@ -162,14 +162,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "160a8d5897ca937f",
+  "active": "8bd85f0c343421e9",
   "lastOpenFiles": [
+    "Deep Learning/Concepts/De-duplication/SimHash.md",
+    "Deep Learning/Concepts/De-duplication/MinHash.md",
+    "Deep Learning/Concepts/De-duplication/De-duplication.md",
+    "LLM Training/Llama versions.md",
     "Frameworks & Tools/Dask.md",
+    "LLM Training/Coding/Causal Model.md",
+    "LLM Training/LLM Architectures.md",
+    "LLM Training/MMLU/Evaluation Methods/LM Evaluation Harness.md",
     "Frameworks & Tools",
     "LLM Training/MMLU/MMLU.md",
-    "LLM Training/MMLU/Evaluation Methods/LM Evaluation Harness.md",
     "LLM Training/MMLU/Evaluation Methods/Test Repo Evaluation.md",
-    "LLM Training/Coding/Causal Model.md",
     "About.md",
     "LLM Training/MMLU/MMLU Code for LLama 3.md",
     "Todo/Work Todo.md",
@@ -178,13 +183,11 @@
     "LLM Training/Concepts/DPO.md",
     "LLM Training/Toolkits/Fairseq/Fairseq + Multi-Node Training.md",
     "LLM Training/MMLU/Evaluation Methods",
-    "LLM Training/Llama versions.md",
     "LLM Training/_images/Pasted image 20241111172632.png",
     "LLM Training/MMLU",
     "Todo/Learnings Todo.md",
     "LLM Training/Models",
     "LLM Training/Models/LLama",
-    "LLM Training/LLM Architectures.md",
     "LLM Training/_images/Pasted image 20241108123402.png",
     "LLM Training/_images/Pasted image 20241108122001.png",
     "LLM Training/_images/Pasted image 20241108101823.png",
@@ -203,8 +206,6 @@
     "Deep Learning/Toolkits/Fairseq/Fairseq + Multi-Node Training.md",
     "Deep Learning/Toolkits/Fairseq/Fairseq Example.md",
     "Deep Learning/Toolkits/Slurm.md",
-    "Deep Learning/Models/LLM Overview.md",
-    "Deep Learning/Models/LLM Architectures.md",
     "Untitled.canvas",
     "Deep Learning/Concepts/De-duplication/images/Pasted image 20241101075245.png",
     "Deep Learning/Concepts/De-duplication/images/Pasted image 20241101075020.png",

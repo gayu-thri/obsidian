@@ -4,6 +4,9 @@
 https://docs.dask.org/en/stable/10-minutes-to-dask.html
 Check how it's being used in NeMo Curator (https://www.zyphra.com/post/building-zyda-2)
 NeMo Dask usage code link
+https://huggingface.co/blog/dask-scaling
+https://danielvanstrien.xyz/posts/post-with-code/dask/2022-06-20-dask-and-datasets.html
+
 Feasibility of integration in each module
 Data Loading: 
 With `load_dataset()` and `Dataset` object, there seems to be no support for speed up
