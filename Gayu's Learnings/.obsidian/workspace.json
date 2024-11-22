@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers & Articles/LLM/Datasets/NVIDIA Data Curation.md",
+                "file": "LLM Datasets/Fine-tuning Datasets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NVIDIA Data Curation"
+              "title": "Fine-tuning Datasets"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers & Articles/LLM/Datasets/NVIDIA Data Curation.md",
+                "file": "LLM Datasets/Fine-tuning Datasets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for NVIDIA Data Curation"
+              "title": "Backlinks for Fine-tuning Datasets"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers & Articles/LLM/Datasets/NVIDIA Data Curation.md",
+                "file": "LLM Datasets/Fine-tuning Datasets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from NVIDIA Data Curation"
+              "title": "Outgoing links from Fine-tuning Datasets"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers & Articles/LLM/Datasets/NVIDIA Data Curation.md"
+                "file": "LLM Datasets/Fine-tuning Datasets.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of NVIDIA Data Curation"
+              "title": "Outline of Fine-tuning Datasets"
             }
           }
         ]
@@ -164,10 +164,14 @@
   },
   "active": "8bd85f0c343421e9",
   "lastOpenFiles": [
+    "LLM Datasets/FT Categories.md",
+    "LLM Datasets/Fine-tuning Datasets.md",
+    "LLM Datasets/Data Mix Notes.md",
+    "Papers & Articles/LLM/Datasets/NVIDIA Data Curation.md",
+    "LLM Datasets",
     "Papers & Articles/LLM/Datasets/SlimPajama.md",
     "Papers & Articles/LLM/Models/LLama 3.md",
     "Papers & Articles/LLM/Datasets/SlimPajama Codebase.md",
-    "Papers & Articles/LLM/Datasets/NVIDIA Data Curation.md",
     "Papers & Articles/LLM/Datasets/DataComp-LM Codebase.md",
     "Papers & Articles/LLM/Datasets/DataComp-LM Paper.md",
     "Papers & Articles/LLM/Datasets/Auto-Pure-Data.md",
@@ -188,12 +192,9 @@
     "Todo/Work Todo.md",
     "LLM Training/MMLU/MMLU Analysis On LLama 3.md",
     "LLM Training/Papers/LLama 3.md",
-    "LLM Training/Concepts/DPO.md",
-    "LLM Training/Toolkits/Fairseq/Fairseq + Multi-Node Training.md",
     "LLM Training/MMLU/Evaluation Methods",
     "LLM Training/_images/Pasted image 20241111172632.png",
     "LLM Training/MMLU",
-    "Todo/Learnings Todo.md",
     "LLM Training/Models",
     "LLM Training/Models/LLama",
     "LLM Training/_images/Pasted image 20241108123402.png",
@@ -205,7 +206,6 @@
     "LLM Training/Coding",
     "LLM Training/Toolkits/Fairseq",
     "LLM Training/Concepts",
-    "LLM Training/Toolkits",
     "Untitled.canvas",
     "Deep Learning/Concepts/De-duplication/images/Pasted image 20241101075245.png",
     "Deep Learning/Concepts/De-duplication/images/Pasted image 20241101075020.png",
