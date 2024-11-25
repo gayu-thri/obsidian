@@ -30,7 +30,7 @@
 - **Text to SQL**
 	- Salesforce/wikisql - [Link](https://huggingface.co/datasets/Salesforce/wikisql)
 - **Instruct Tuning** 
-	- cognitivecomputations/open-instruct-uncensored - [Link](https://huggingface.co/datasets/cognitivecomputations/open-instruct-uncensored?row=14 (Code, QA, Self Instruct, CoT, Instructions)
+	- cognitivecomputations/open-instruct-uncensored - [Link](https://huggingface.co/datasets/cognitivecomputations/open-instruct-uncensored)
 		- Code, QA, Self Instruct, CoT, Instructions
 	- openbmb/UltraInteract_sft - [Link](https://huggingface.co/datasets/openbmb/UltraInteract_sft)
 		- MATH, mathqa, codecontest, TACO, hotpotqa
@@ -41,5 +41,6 @@
 	- NortheasternUniversity/big_patent - [Link](https://huggingface.co/datasets/NortheasternUniversity/big_patent)
 - **Classification**
 	- google-research/goemotions [Link](https://github.com/google-research/google-research/tree/master/goemotions/data)
+	- google-research-datasets/poem_sentiment - [Link](https://huggingface.co/datasets/google-research-datasets/poem_sentiment)
 - Blockers to add,
 	- DocFinQA - No link for dataset found in paper

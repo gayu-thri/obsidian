@@ -1,4 +1,26 @@
- 
+##### Availability of Data (Ref from Sheets)
+- Summary
+	- 22 datasets available (~10 GB)
+- NL - SQL
+	- 4 datasets available (~0.02 GB) (*Limited*)
+		- 2 unknown licenses
+- NL - Codegen
+	- 16 datasets available (~1.1 GB)
+-  Classification tasks
+	- 46 datasets available (~0.01 GB) (*Limited*)
+- Text generation / based on the prompt
+	- 5 datasets available (~0.07 GB) (*Limited*)
+- NL - Structural
+	- *Unavailable*
+- Code - Unit test gen.
+	- *Very Very Limited*
+	- Only 1 source in Sheets - Not very reliable
+	- https://github.com/openai/human-eval/tree/master
+- In Context QA
+	- With context - *Very Limited*
+
+---
+##### Categories
 - Text Summarization  
 - Input = Natural Language and Output = Structural. Input will have a defined schema for example, JSON schema and based on the query output will have the schema filled with answer   
 - Input = Natural Language and Output = SQL. Input will have a defined SQL DB schema for example, CREATE TABLE... and based on the query output will have the SQL query 
