@@ -15,6 +15,39 @@
 #### Cosmopedia
 https://huggingface.co/datasets/HuggingFaceTB/cosmopedia
 - Todo
+#### Tulu3 SFT Mixture
+https://huggingface.co/datasets/allenai/tulu-3-sft-mixture
+https://allenai.org/papers/tulu-3-report.pdf
+- ~1M (9,39,344 samples)
+- Data mix
+	- General
+	- Knowledge Recall
+	- Math reasoning
+	- Coding
+	- Safety & Non-compliance
+	- Multilingual
+	- Precise IF
+	- ![[Pasted image 20241128191102.png]]
+- Dataset composition
+	- [CoCoNot](https://huggingface.co/datasets/allenai/coconot) (ODC-BY-1.0), 10,983 prompts
+	- [FLAN v2](https://github.com/google-research/FLAN/tree/main) via [`ai2-adapt-dev/flan_v2_converted`](https://huggingface.co/datasets/ai2-adapt-dev/flan_v2_converted), 89,982 prompts
+	- [No Robots](https://huggingface.co/datasets/HuggingFaceH4/no_robots) (CC-BY-NC-4.0), 9,500 prompts
+	- [OpenAssistant Guanaco](https://huggingface.co/datasets/OpenAssistant/oasst1) (Apache 2.0), 7,132 prompts
+	- [Tulu 3 Persona MATH](https://huggingface.co/datasets/allenai/tulu-3-personas-math) (ODC-BY-1.0), 149,960 prompts
+	- [Tulu 3 Persona GSM](https://huggingface.co/datasets/allenai/tulu-3-sft-personas-math-grade) (ODC-BY-1.0), 49,980 prompts
+	- [Tulu 3 Persona Python](https://huggingface.co/datasets/allenai/tulu-3-sft-personas-code) (ODC-BY-1.0), 34,999 prompts
+	- [Tulu 3 Persona Algebra](https://huggingface.co/datasets/allenai/tulu-3-personas-algebra) (ODC-BY-1.0), 20,000 prompts
+	- [Tulu 3 Persona IF](https://huggingface.co/datasets/allenai/tulu-3-sft-personas-instruction-following) (ODC-BY-1.0), 29,980 prompts
+	- [NuminaMath-TIR](https://huggingface.co/datasets/AI-MO/NuminaMath-TIR) (CC-BY-NC-4.0), 64,312 prompts 
+	- [Tulu 3 WildGuardMix](https://huggingface.co/datasets/allenai/wildguardmix) (Apache 2.0), 50,000 prompts
+	- [Tulu 3 WildJailbreak](https://huggingface.co/datasets/allenai/wildjailbreak) (ODC-BY-1.0), 50,000 prompts
+	- [Tulu 3 Hardcoded](https://huggingface.co/datasets/allenai/tulu-3-hard-coded) (CC-BY-4.0), 240 prompts
+	- [Aya](https://huggingface.co/datasets/CohereForAI/aya_dataset) (Apache 2.0), 100,000 prompts
+	- [WildChat GPT-4](https://huggingface.co/datasets/allenai/WildChat-1M) (ODC-BY-1.0), 100,000 prompts
+	- [TableGPT](https://huggingface.co/datasets/LipengCS/Table-GPT) (MIT), 5,000 prompts
+	- [SciRIFF](https://huggingface.co/datasets/allenai/SciRIFF) (ODC-BY-1.0), 10,000 prompts
+	- [Evol CodeAlpaca](https://huggingface.co/datasets/theblackcat102/evol-codealpaca-v1) (Apache 2.0), 107,276 prompts
+	
 #### SmolLM corpus
 https://huggingface.co/datasets/HuggingFaceTB/smollm-corpus
 - Dataset composition

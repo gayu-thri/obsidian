@@ -1,4 +1,14 @@
-ChatGPT output
+## References
+1. Tulu3 - [Link](https://huggingface.co/datasets/allenai/tulu-3-sft-mixture)
+2. WizardLMTeam/WizardLM_evol_instruct_70k - [Link](https://huggingface.co/datasets/WizardLMTeam/WizardLM_evol_instruct_70k)
+3. smoltalk - [Link](https://huggingface.co/datasets/HuggingFaceTB/smoltalk)
+4. HuggingFaceTB/smollm-corpus - [Link](https://huggingface.co/datasets/HuggingFaceTB/smollm-corpus)
+5. HuggingFaceTB/cosmopedia - [Link](https://huggingface.co/datasets/HuggingFaceTB/cosmopedia)
+## Blogs
+- https://www.amd.com/en/developer/resources/technical-articles/introducing-the-first-amd-1b-language-model.html
+	1. **Phase 1:** First, we fine-tune the model on [TuluV2](https://huggingface.co/datasets/allenai/tulu-v2-sft-mixture) dataset, which is a publicly available high-quality instruction dataset consisting of 0.66 billion tokens.
+	2. **Phase 2:** To further improve the instruction following capabilities, we subject the model to be fine-tuned on a relatively larger instruction dataset [OpenHermes 2.5](https://huggingface.co/datasets/teknium/OpenHermes-2.5). In this phase, we also use [Code-Feedback](https://huggingface.co/datasets/m-a-p/Code-Feedback) and [WebInstructSub](https://huggingface.co/datasets/TIGER-Lab/WebInstructSub) dataset to improve the model’s capability along the dimensions of coding, science and mathematical problem solving.  These datasets consist of ~7 billion tokens in total.
+## ChatGPT output
 
 If you're looking for a unified dataset that covers multiple domains and tasks like summarization, text-to-structure generation (e.g., SQL, code), QA, and classification, a few datasets or projects are specifically designed to provide such broad coverage. Here are some potential alternatives to the OpenHermes dataset:
 

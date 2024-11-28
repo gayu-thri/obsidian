@@ -55,6 +55,7 @@ Check below
 	- WizardLMTeam/WizardLM_evol_instruct_V2_196k - [Link](https://huggingface.co/datasets/WizardLMTeam/WizardLM_evol_instruct_V2_196k)
 	- teknium/GPT4-LLM-Cleaned - [Link](https://huggingface.co/datasets/teknium/GPT4-LLM-Cleaned)
 	- teknium1/GPTeacher - [Link](https://github.com/teknium1/GPTeacher/tree/main)
+	- allenai/tulu-3-sft-mixture - [Link](https://huggingface.co/datasets/allenai/tulu-3-sft-mixture)
 - **Summarization**
 	- NortheasternUniversity/big_patent - [Link](https://huggingface.co/datasets/NortheasternUniversity/big_patent)
 - **Classification**
