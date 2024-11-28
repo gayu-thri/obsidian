@@ -1,17 +1,19 @@
 ##### Availability of Data (Ref from Sheets)
 - Summary
-	- 22 datasets available (~10 GB)
-- NL - SQL
-	- 4 datasets available (~0.02 GB) (*Limited*)
-		- 2 unknown licenses
+	- 22 datasets available (~5,63,533k rows)
 - NL - Codegen
-	- 16 datasets available (~1.1 GB)
+	- 16 datasets available (~45,035k rows)
 -  Classification tasks
-	- 46 datasets available (~0.01 GB) (*Limited*)
+	- 46 datasets available (~7,144k rows)
 - Text generation / based on the prompt
-	- 5 datasets available (~0.07 GB) (*Limited*)
+	- 5 datasets available (~60,119k rows)
+- NL - SQL
+	- 4 datasets available (~293k rows) (*Limited*)
+		- 2 unknown licenses
 - NL - Structural
-	- *Unavailable*
+	- 5 datasets available (~1.7k rows) (*Very Limited*)
+		- 3 unknown licenses
+	- "JSON Extraction" in Sheets
 - Code - Unit test gen.
 	- *Very Very Limited*
 	- Only 1 source in Sheets - Not very reliable
