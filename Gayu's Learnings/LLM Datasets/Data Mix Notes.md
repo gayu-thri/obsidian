@@ -1,6 +1,7 @@
 # Take-Aways
 ### In General
 - Synthetic data, when carefully curated and integrated with publicly available high-quality datasets, can significantly enhance a model’s performance without requiring prohibitively large computational resources. [Ref in smoltalk](https://www.marktechpost.com/2024/11/21/smoltalk-released-the-dataset-recipe-behind-the-best-in-class-performance-of-smollm2/)
+- Balanced mix of unstructured (*summary, text generation*) and structured (*text2code, text2sql*)
 ---
 ### Category - Data Mix
 ##### Text2CodeGeneration
@@ -11,35 +12,48 @@
 ---
 ### Dataset - Data Mix
 
+#### Cosmopedia
+https://huggingface.co/datasets/HuggingFaceTB/cosmopedia
+- Todo
+#### SmolLM corpus
+https://huggingface.co/datasets/HuggingFaceTB/smollm-corpus
+- Dataset composition
+	- Cosmopedia v2 - (28B tokens)
+		- *synthetic textbooks & stories*
+	- Python-Edu - (4B tokens)
+		- *From "The Stack"*
+	- FineWeb-Edu (220B tokens)
+		- *deduplicated*
 #### Smoltalk
 https://huggingface.co/datasets/HuggingFaceTB/smoltalk
 - 1M samples
 - Dataset composition
 	- New datasets
-		- Smol-Magpie-Ultra - 400k
-		- Smol-contraints - 36k
-		- Smol-rewrite - 50k (adjusting tone of writing to friendly/professional)
-		- Smol-summarize - 100k (e-mail and news)
+		- Smol-Magpie-Ultra - 400k (40%)
+		- Smol-contraints - 36k (3.6%)
+			-  *follow specific constraints, such as generating responses with a fixed number of sentences or words, or incorporating specified words in the output.*
+		- Smol-rewrite - 50k (5%) (adjusting tone of writing to friendly/professional)
+		- Smol-summarize - 100k (10%) (e-mail and news)
 	- Existing datasets
 		- *NOTE: To enhance capabilities in mathematics, coding, system prompts, and long-context understanding, we fine-tuned SmolLM2-1.7B on various public SFT datasets and included subsets of the best performing ones using tuned ratios*
-		- [OpenHermes2.5](https://huggingface.co/datasets/teknium/OpenHermes-2.5) - 100k 
+		- [OpenHermes2.5](https://huggingface.co/datasets/teknium/OpenHermes-2.5) - 100k (10%)
 			- *helps preserve & boost MMLU, WinoGrande and BBH*
-		- [MetaMathQA](https://huggingface.co/datasets/meta-math/MetaMathQA?) - 50k random 
+		- [MetaMathQA](https://huggingface.co/datasets/meta-math/MetaMathQA?) - 50k random (5%)
 			- *improve mathematics & reasoning*
 		- [NuminaMath-CoT](https://huggingface.co/datasets/AI-MO/NuminaMath-CoT)- 
 			- *helps for hard problems in MATH benchmark*
 		- [Self-Oss-Starcoder2-Instruct](https://huggingface.co/datasets/bigcode/self-oss-instruct-sc2-exec-filter-50k) 
 			- *improve coding capabilities*
-		- [SystemChats2.0](https://huggingface.co/datasets/cognitivecomputations/SystemChat-2.0): 30k 
+		- [SystemChats2.0](https://huggingface.co/datasets/cognitivecomputations/SystemChat-2.0): 30k (3%)
 			- *supports a variety of system prompt formats*
 		- [LongAlign](https://huggingface.co/datasets/THUDM/LongAlign-10k):  english samples with <16k tokens & train with a 8192 sequence
 			- *we find that finetuning model on only short samples makes it loose long context abilities beyond 2048 tokens*
 		- [Everyday-conversations](https://huggingface.co/datasets/HuggingFaceTB/everyday-conversations-llama3.1-2k):
 			- *multi-turn everyday conversations such as greeting*
 			- *used in SmolLM v1 post-training*
-		- [APIGen-Function-Calling](https://huggingface.co/datasets/argilla/apigen-function-calling): 80k 
+		- [APIGen-Function-Calling](https://huggingface.co/datasets/argilla/apigen-function-calling): 80k (8%)
 			- *(mix of [Synth-APIGen-v0.1](https://huggingface.co/datasets/argilla/Synth-APIGen-v0.1) and [xlam-function-calling-60k](https://huggingface.co/datasets/Salesforce/xlam-function-calling-60k) datasets)*
-		- [Explore-Instruct-Rewriting](https://huggingface.co/datasets/Wanfq/Explore_Instruct_Rewriting_32k): 30k
+		- [Explore-Instruct-Rewriting](https://huggingface.co/datasets/Wanfq/Explore_Instruct_Rewriting_32k): 30k  (3%)
 
 #### No Robots Dataset
 - High quality SFT data
