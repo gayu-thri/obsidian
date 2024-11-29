@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "LLM Datasets/OpenHermes Alternates.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -105,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50260543823242,
-    "collapsed": true
+    "width": 244.50260543823242
   },
   "right": {
     "id": "3cddeeb6fbef4330",
@@ -191,11 +190,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8bd85f0c343421e9",
+  "active": "aac7ba3904e0fec8",
   "lastOpenFiles": [
-    "LLM Datasets/Fine-tuning Datasets.md",
+    "LLM Datasets/_images/Pasted image 20241129153245.png",
     "LLM Datasets/OpenHermes Alternates.md",
     "LLM Datasets/Data Mix Notes.md",
+    "LLM Datasets/Fine-tuning Datasets.md",
     "LLM Datasets/_images",
     "LLM Datasets/_images/Pasted image 20241128191102.png",
     "LLM Datasets/Data Quality Metric.md",

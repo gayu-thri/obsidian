@@ -14,7 +14,8 @@
 
 #### Cosmopedia
 https://huggingface.co/datasets/HuggingFaceTB/cosmopedia
-- Todo
+- Data mix summary
+	- ==TODO==
 #### Tulu3 SFT Mixture
 https://huggingface.co/datasets/allenai/tulu-3-sft-mixture
 https://allenai.org/papers/tulu-3-report.pdf
@@ -48,8 +49,14 @@ https://allenai.org/papers/tulu-3-report.pdf
 	- [SciRIFF](https://huggingface.co/datasets/allenai/SciRIFF) (ODC-BY-1.0), 10,000 prompts
 	- [Evol CodeAlpaca](https://huggingface.co/datasets/theblackcat102/evol-codealpaca-v1) (Apache 2.0), 107,276 prompts
 	
+#### SmolLM2 Ecosytem
+![[Pasted image 20241129153245.png]]
 #### SmolLM corpus
 https://huggingface.co/datasets/HuggingFaceTB/smollm-corpus
+- Curated collection of high-quality educational and synthetic data
+- Designed for training small language models
+- Data mix summary
+	- ==TODO==
 - Dataset composition
 	- Cosmopedia v2 - (28B tokens)
 		- *synthetic textbooks & stories*
@@ -57,9 +64,11 @@ https://huggingface.co/datasets/HuggingFaceTB/smollm-corpus
 		- *From "The Stack"*
 	- FineWeb-Edu (220B tokens)
 		- *deduplicated*
-#### Smoltalk
+#### Smoltalk (SFT Data)
 https://huggingface.co/datasets/HuggingFaceTB/smoltalk
 - 1M samples
+- Data mix summary
+	- ==TODO==
 - Dataset composition
 	- New datasets
 		- Smol-Magpie-Ultra - 400k (40%)
