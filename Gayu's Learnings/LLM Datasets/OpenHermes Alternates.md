@@ -3,7 +3,6 @@
 2. WizardLMTeam/WizardLM_evol_instruct_70k - [Link](https://huggingface.co/datasets/WizardLMTeam/WizardLM_evol_instruct_70k)
 3. smoltalk - [Link](https://huggingface.co/datasets/HuggingFaceTB/smoltalk)
 4. HuggingFaceTB/smollm-corpus - [Link](https://huggingface.co/datasets/HuggingFaceTB/smollm-corpus)
-5. HuggingFaceTB/cosmopedia - [Link](https://huggingface.co/datasets/HuggingFaceTB/cosmopedia)
 ## Blogs
 - https://www.amd.com/en/developer/resources/technical-articles/introducing-the-first-amd-1b-language-model.html
 	1. **Phase 1:** First, we fine-tune the model on [TuluV2](https://huggingface.co/datasets/allenai/tulu-v2-sft-mixture) dataset, which is a publicly available high-quality instruction dataset consisting of 0.66 billion tokens.

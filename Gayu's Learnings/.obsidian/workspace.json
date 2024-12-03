@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM Datasets/Data Mix Notes.md",
+                "file": "LLM Training/Concepts/LLM Concepts Overview (Has TODO).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Mix Notes"
+              "title": "LLM Concepts Overview (Has TODO)"
             }
           },
           {
@@ -190,16 +190,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aac7ba3904e0fec8",
+  "active": "8bd85f0c343421e9",
   "lastOpenFiles": [
-    "LLM Datasets/_images/Pasted image 20241129153245.png",
+    "Todo/Learnings Todo.md",
+    "LLM Training/Concepts/LLM Concepts Overview (Has TODO).md",
+    "LLM Datasets/FT Categories.md",
     "LLM Datasets/OpenHermes Alternates.md",
-    "LLM Datasets/Data Mix Notes.md",
     "LLM Datasets/Fine-tuning Datasets.md",
+    "Bookmarks/General Bookmarks.md",
+    "LLM Datasets/Data Mix Notes.md",
+    "LLM Datasets/Data Quality Metric.md",
+    "LLM Datasets/_images/Pasted image 20241129153245.png",
     "LLM Datasets/_images",
     "LLM Datasets/_images/Pasted image 20241128191102.png",
-    "LLM Datasets/Data Quality Metric.md",
-    "LLM Datasets/FT Categories.md",
     "LLM Training/MMLU/MMLU.md",
     "LLM Training/MMLU/MMLU Analysis On LLama 3.md",
     "LLM Training/MMLU/MMLU Code for LLama 3.md",
@@ -219,9 +222,7 @@
     "LLM Training/Llama versions.md",
     "LLM Training/Coding/Causal Model.md",
     "LLM Training/LLM Architectures.md",
-    "LLM Training/MMLU/Evaluation Methods/LM Evaluation Harness.md",
     "Frameworks & Tools",
-    "LLM Training/MMLU/Evaluation Methods/Test Repo Evaluation.md",
     "LLM Training/MMLU/Evaluation Methods",
     "LLM Training/_images/Pasted image 20241111172632.png",
     "LLM Training/MMLU",
@@ -237,7 +238,6 @@
     "LLM Training/Toolkits/Fairseq",
     "Untitled.canvas",
     "Deep Learning/Concepts/De-duplication/images/Pasted image 20241101075245.png",
-    "Deep Learning/Concepts/De-duplication/images/Pasted image 20241101075020.png",
-    "Deep Learning/Concepts/De-duplication/images/Pasted image 20241101073030.png"
+    "Deep Learning/Concepts/De-duplication/images/Pasted image 20241101075020.png"
   ]
 }
